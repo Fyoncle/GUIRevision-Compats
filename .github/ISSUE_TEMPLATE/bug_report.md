@@ -1,38 +1,60 @@
----
-name: Bug report
-about: Create a report to help us improve
-title: ''
-labels: ''
-assignees: ''
-
----
-
-**Describe the bug**
-A clear and concise description of what the bug is.
-
-**To Reproduce**
-Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
-
-**Expected behavior**
-A clear and concise description of what you expected to happen.
-
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
-
-**Desktop (please complete the following information):**
- - OS: [e.g. iOS]
- - Browser [e.g. chrome, safari]
- - Version [e.g. 22]
-
-**Smartphone (please complete the following information):**
- - Device: [e.g. iPhone6]
- - OS: [e.g. iOS8.1]
- - Browser [e.g. stock browser, safari]
- - Version [e.g. 22]
-
-**Additional context**
-Add any other context about the problem here.
+name: Bug Report
+description: 'Something is not working.'
+title: '[Bug]: '
+assignees:
+  - Fyoncle
+labels:
+  - bug
+body:
+  - type: input
+    id: minecraft
+    attributes:
+      label: Minecraft Version
+      description: Which Minecraft version are you playing on?
+      placeholder: 1.20.1
+    validations:
+      required: true
+  - type: input
+    id: gr_version
+    attributes:
+      label: GUI Revision version
+      description: >-
+        Which version of GUI Revision are you using?
+      placeholder: v1.10
+    validations:
+      required: true
+  - type: input
+    id: gr_compats_version
+    attributes:
+      label: GUI Revision Compats version
+      description: >-
+        Which version of GUI Revision Compats are you using?
+      placeholder: v1.0
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: Describe the bug
+      description: A clear explanation of the bug.
+      placeholder: >-
+        Version v1.x not working on Minecraft 1.xx.x
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+      description: >-
+        Required steps to reproduce the bug.
+      placeholder: |
+        1. Install GUI Revision & GUI Revision Compats on Minecraft 1.xx.x
+        2. Join a world
+        3. See this mod stated as compatible is not working on this version
+  - type: input
+    id: logs
+    attributes:
+      label: Relevant logs
+      description: |
+        Please upload the log file to [mclo.gs](https://mclo.gs/) and paste the given url here.  
+      placeholder: https://mclo.gs/...
