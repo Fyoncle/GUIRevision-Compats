@@ -1,7 +1,5 @@
 ## This resourcepack adds [GUI Revision](https://modrinth.com/resourcepack/gui-revision) compatibility to mods.
 
-#
-
 ### Compatibility List:
 
 <table>
