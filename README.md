@@ -1,6 +1,6 @@
-## This resourcepack adds [GUI Revision](https://modrinth.com/resourcepack/gui-revision) compatibility to mods.
+This resourcepack adds [GUI Revision](https://modrinth.com/resourcepack/gui-revision) compatibility to mods!
 
-### Compatibility List:
+## Compatibility List:
 
 **Trinket Mods:**
 
