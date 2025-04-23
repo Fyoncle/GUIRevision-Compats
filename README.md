@@ -235,6 +235,26 @@ This resourcepack adds [GUI Revision](https://modrinth.com/resourcepack/gui-revi
       <b><a href="https://modrinth.com/mod/chipped">Chipped</a></b>
     </td>
   </tr>
+   <tr>
+    <td>
+      <a href="https://modrinth.com/mod/chatpatches">
+        <img src="https://cdn.modrinth.com/data/MOqt4Z5n/56c954dea290ef4dd1b0d6ea92a811acac62ca85.png" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/chatpatches">Chat Patches</a></b>
+    </td>
+  </tr>
+   <tr>
+    <td>
+      <a href="https://modrinth.com/mod/polymorph">
+        <img src="https://cdn.modrinth.com/data/tagwiZkJ/ed244c5829bde539763c7fffb55cb3194a349d66.png" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/polymorph">Polymorph</a></b>
+    </td>
+  </tr>
   </table>
 
 #
