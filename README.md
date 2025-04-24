@@ -107,6 +107,131 @@ This resourcepack adds [GUI Revision](https://modrinth.com/resourcepack/gui-revi
   </tr>
   </table>
 
+**Let's Do Series:**
+
+ <table>
+   <tr>
+    <td>
+      <a href="https://modrinth.com/mod/lets-do-bakery">
+        <img src="https://cdn.modrinth.com/data/WFwYiVoG/26038467ace7c0a68b660e94278ca52274ab0985_96.webp" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/lets-do-bakery">Legacy: [Let's Do] Bakery</a></b>
+    </td>
+  </tr>
+     <tr>
+    <td>
+      <a href="https://modrinth.com/mod/lets-do-bakery-farmcharm-compat">
+        <img src="https://cdn.modrinth.com/data/oNB5jhlA/7554d5007539c835d705b6af9d9df1591f7f5c69_96.webp" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="xlinkxxxxxxxxxxhttps://modrinth.com/mod/lets-do-bakery-farmcharm-compatxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx">[Let's Do] Bakery - Farm&Charm Compat</a></b>
+    </td>
+  </tr>
+     <tr>
+    <td>
+      <a href="https://modrinth.com/mod/lets-do-candlelight">
+        <img src="https://cdn.modrinth.com/data/mPND0Adp/9ddf15da15d9278e8d6fe0c871eb8dda072f2e6b_96.webp" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/lets-do-candlelight">Legacy: [Let's Do] Candlelight</a></b>
+    </td>
+  </tr>
+     <tr>
+    <td>
+      <a href="https://modrinth.com/mod/lets-do-candlelight-farmcharm-compat">
+        <img src="https://cdn.modrinth.com/data/qwbArkQk/162251c6c3411a00c2b9dbeaec099fcf4db4bc6d_96.webp" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/lets-do-candlelight-farmcharm-compat">[Let's Do] Candlelight - Farm&Charm compat</a></b>
+    </td>
+  </tr>
+     <tr>
+    <td>
+      <a href="https://modrinth.com/mod/lets-do-vinery">
+        <img src="https://cdn.modrinth.com/data/1DWmBJVA/15cf24557d40701ce68df224b50115771f953806_96.webp" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/lets-do-vinery">[Let's Do] Vinery</a></b>
+    </td>
+  </tr>
+     <tr>
+    <td>
+      <a href="https://modrinth.com/mod/lets-do-herbalbrews">
+        <img src="https://cdn.modrinth.com/data/Eh11TaTm/ce6e5983ec643caf12ac93bbd82eab7706b4df51_96.webp" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/lets-do-herbalbrews">[Let's Do] HerbalBrews</a></b>
+    </td>
+  </tr>
+     <tr>
+    <td>
+      <a href="https://modrinth.com/mod/lets-do-beachparty">
+        <img src="https://cdn.modrinth.com/data/GyKzAh3l/c83f94cf3514d4895f4f975b64ef417994dcecd5_96.webp" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/lets-do-beachparty">[Let's Do] Beachparty</a></b>
+    </td>
+  </tr>
+     <tr>
+    <td>
+      <a href="https://modrinth.com/mod/lets-do-farm-charm">
+        <img src="https://cdn.modrinth.com/data/HJetCzWo/219e522e8504de65a8df8f691c4e0b08f77dd90f_96.webp" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/lets-do-farm-charm">[Let's Do] Farm & Charm</a></b>
+    </td>
+  </tr>
+     <tr>
+    <td>
+      <a href="https://modrinth.com/mod/lets-do-meadow">
+        <img src="https://cdn.modrinth.com/data/ra7o6Sl7/9e8d12c04f972e53f88d5e254880db024537f399_96.webp" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/lets-do-meadow">[Let's Do] Meadow</a></b>
+    </td>
+  </tr>
+     <tr>
+    <td>
+      <a href="https://modrinth.com/mod/lets-do-camping">
+        <img src="https://cdn.modrinth.com/data/uJXTNuf0/227cd60faccde49bd71d6567096b1807be6eb11e.png" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/lets-do-camping">[Let's Do] Camping</a></b>
+    </td>
+  </tr>
+     <tr>
+    <td>
+      <a href="https://modrinth.com/mod/lets-do-lilis-lucky-lures">
+        <img src="https://cdn.modrinth.com/data/DMDVFZSF/fde6b9eeb85e761820ab7daac05be97892d0755e_96.webp" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/lets-do-lilis-lucky-lures">[Let's Do] Lili's Lucky Lures</a></b>
+    </td>
+  </tr>
+     <tr>
+    <td>
+      <a href="https://modrinth.com/mod/lets-do-wildernature">
+        <img src="https://cdn.modrinth.com/data/AAiRU4aQ/067e622f2069bc36676f4067b053c31d67655daf_96.webp" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/lets-do-wildernature">[Let's Do] WilderNature</a></b>
+    </td>
+  </tr>
+ </table>
+
 **Farmer's Delight Series:**
 
    <table>
@@ -253,6 +378,76 @@ This resourcepack adds [GUI Revision](https://modrinth.com/resourcepack/gui-revi
     </td>
     <td>
       <b><a href="https://modrinth.com/mod/polymorph">Polymorph</a></b>
+    </td>
+  </tr>
+     <tr>
+    <td>
+      <a href="https://modrinth.com/mod/woodworks">
+        <img src="https://cdn.modrinth.com/data/rv1sovni/a4a058dfb559d8cec0c5aea67ced7ebe477ea092_96.webp" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/woodworks">Woodworks</a></b>
+    </td>
+  </tr>
+       <tr>
+    <td>
+      <a href="https://modrinth.com/mod/clayworks">
+        <img src="https://cdn.modrinth.com/data/1iicrEO3/175f6d4d105713cae5ba761def71c579a5ba92f3_96.webp" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/clayworks">Clayworks</a></b>
+    </td>
+  </tr>
+       <tr>
+    <td>
+      <a href="https://modrinth.com/mod/universal-sawmill">
+        <img src="https://cdn.modrinth.com/data/WRaRZdTd/788d1346e7cda9cfca2233473cfa817593d5464f_96.webp" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/universal-sawmill">Sawmill</a></b>
+    </td>
+  </tr>
+       <tr>
+    <td>
+      <a href="https://modrinth.com/mod/better-archeology">
+        <img src="https://cdn.modrinth.com/data/zCh7omyG/6e077f9529b6789aed7696655d8fd84758e1b54e_96.webp" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/better-archeology">Better Archeology</a></b>
+    </td>
+  </tr>
+       <tr>
+    <td>
+      <a href="https://modrinth.com/mod/toms-storage">
+        <img src="https://cdn.modrinth.com/data/XZNI4Cpy/1949d7adbf962ac86912608edfb93fa5342bffd6_96.webp" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/toms-storage">Tom's Simple Storage Mod</a></b>
+    </td>
+  </tr>
+       <tr>
+    <td>
+      <a href="https://modrinth.com/mod/cosmetic-armor">
+        <img src="https://cdn.modrinth.com/data/JrIYhb1P/icon.png" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/cosmetic-armor">Cosmetic Armor</a></b>
+    </td>
+  </tr>
+       <tr>
+    <td>
+      <a href="https://modrinth.com/mod/show-me-your-skin">
+        <img src="https://cdn.modrinth.com/data/bD7YqcA3/icon.png" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/show-me-your-skin">Show Me Your Skin!</a></b>
     </td>
   </tr>
   </table>
