@@ -72,6 +72,51 @@ This resourcepack adds [GUI Revision](https://modrinth.com/resourcepack/gui-revi
   </tr>
   </table>
 
+**Sorting:**
+
+   <table>
+   <tr>
+    <td>
+      <a href="https://modrinth.com/mod/inventory-profiles-next">
+        <img src="https://cdn.modrinth.com/data/O7RBXm3n/04cdecd37b4c7409f70d36fcdc85722ebf14aab8_96.webp" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/inventory-profiles-next">Inventory Profiles Next</a></b>
+    </td>
+  </tr>
+     <tr>
+    <td>
+      <a href="https://modrinth.com/mod/inventory-management">
+        <img src="https://cdn.modrinth.com/data/F7wXag4i/952573630299e4f7b3a5458a1cde25d8d52f5cb1_96.webp" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/inventory-management">Inventory Management</a></b>
+    </td>
+  </tr>
+     <tr>
+    <td>
+      <a href="https://modrinth.com/mod/inventory-sorting">
+        <img src="https://cdn.modrinth.com/data/5ibSyLAz/cb998de47289a6b0f4022106088870be27d3d5e2.png" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/inventory-sorting">Inventory Sorting</a></b>
+    </td>
+  </tr>
+         <tr>
+    <td>
+      <a href="https://modrinth.com/mod/toms-storage">
+        <img src="https://cdn.modrinth.com/data/XZNI4Cpy/1949d7adbf962ac86912608edfb93fa5342bffd6_96.webp" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/toms-storage">Tom's Simple Storage Mod</a></b>
+    </td>
+  </tr>
+  </table>
+
 **Backpack Mods:**
 
   <table>
@@ -270,6 +315,16 @@ This resourcepack adds [GUI Revision](https://modrinth.com/resourcepack/gui-revi
 **Other Mods:**
 
   <table>
+     <tr>
+    <td>
+      <a href="https://modrinth.com/mod/fabric-api">
+        <img src="https://cdn.modrinth.com/data/P7dR8mSH/icon.png" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/fabric-api">Fabric API</a></b>
+    </td>
+   </tr>
    <tr>
     <td>
       <a href="https://modrinth.com/mod/superb-steeds">
@@ -279,7 +334,7 @@ This resourcepack adds [GUI Revision](https://modrinth.com/resourcepack/gui-revi
     <td>
       <b><a href="https://modrinth.com/mod/superb-steeds">Superb Steeds</a></b>
     </td>
-     </tr>
+   </tr>
    <tr>
     <td>
       <a href="https://modrinth.com/mod/shulkerboxtooltip">
@@ -322,12 +377,22 @@ This resourcepack adds [GUI Revision](https://modrinth.com/resourcepack/gui-revi
     </tr>
      <tr>
    <td>
-      <a href="hhttps://modrinth.com/mod/animal_feeding_trough">
+      <a href="https://modrinth.com/mod/animal_feeding_trough">
         <img src="https://cdn.modrinth.com/data/bRFWnJ87/1914b673b80b2c6ff8d99e3f047ab3275ad30d2a_96.webp" width="32">
       </a>
     </td>
     <td>
       <b><a href="https://modrinth.com/mod/animal_feeding_trough">Animal Feeding Trough</a></b>
+    </td>
+   </tr>
+        <tr>
+   <td>
+      <a href="https://modrinth.com/mod/bountiful">
+        <img src="https://cdn.modrinth.com/data/BpwWFOVM/icon.png" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/bountiful">Bountiful</a></b>
     </td>
    </tr>
     <tr>
@@ -422,16 +487,6 @@ This resourcepack adds [GUI Revision](https://modrinth.com/resourcepack/gui-revi
   </tr>
        <tr>
     <td>
-      <a href="https://modrinth.com/mod/toms-storage">
-        <img src="https://cdn.modrinth.com/data/XZNI4Cpy/1949d7adbf962ac86912608edfb93fa5342bffd6_96.webp" width="32">
-      </a>
-    </td>
-    <td>
-      <b><a href="https://modrinth.com/mod/toms-storage">Tom's Simple Storage Mod</a></b>
-    </td>
-  </tr>
-       <tr>
-    <td>
       <a href="https://modrinth.com/mod/cosmetic-armor">
         <img src="https://cdn.modrinth.com/data/JrIYhb1P/icon.png" width="32">
       </a>
@@ -440,7 +495,7 @@ This resourcepack adds [GUI Revision](https://modrinth.com/resourcepack/gui-revi
       <b><a href="https://modrinth.com/mod/cosmetic-armor">Cosmetic Armor</a></b>
     </td>
   </tr>
-       <tr>
+   <tr>
     <td>
       <a href="https://modrinth.com/mod/show-me-your-skin">
         <img src="https://cdn.modrinth.com/data/bD7YqcA3/icon.png" width="32">
@@ -448,6 +503,16 @@ This resourcepack adds [GUI Revision](https://modrinth.com/resourcepack/gui-revi
     </td>
     <td>
       <b><a href="https://modrinth.com/mod/show-me-your-skin">Show Me Your Skin!</a></b>
+    </td>
+  </tr>
+   <tr>
+    <td>
+      <a href="https://modrinth.com/mod/corpse">
+        <img src="https://cdn.modrinth.com/data/WrpuIfhw/032925a79197e9e23be2c6a07d994b17e3363912.png" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/corpse">Corpse</a></b>
     </td>
   </tr>
   </table>
