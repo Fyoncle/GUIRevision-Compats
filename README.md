@@ -5,7 +5,7 @@
 You should follow this load order for this to work:  
 ![LoadOrder](https://cdn.modrinth.com/data/cached_images/2a446ad5a4db94b517f1c123f36363799def91c0.png)
 
-***
+---
 
 ### Compatibility List:
 
@@ -307,7 +307,7 @@ You should follow this load order for this to work:
       <b><a href="https://modrinth.com/mod/farmers-delight-refabricated">Farmer's Delight Refabricated</a></b>
     </td>
   </tr>
-       <tr>
+    <tr>
     <td>
       <a href="https://modrinth.com/mod/farmers-delight-fabric">
         <img src="https://cdn.modrinth.com/data/4EakbH8e/icon.png" width="32">
@@ -344,12 +344,32 @@ You should follow this load order for this to work:
    </tr>
          <tr>
     <td>
+      <a href="https://modrinth.com/mod/paginatedadvancements">
+        <img src="https://cdn.modrinth.com/data/pJogNFap/icon.png" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/paginatedadvancements">Paginated Advancements & Custom Frames</a></b>
+    </td>
+   </tr>
+         <tr>
+    <td>
       <a href="https://modrinth.com/mod/no-chat-reports">
         <img src="https://cdn.modrinth.com/data/qQyHxfxd/icon.png" width="32">
       </a>
     </td>
     <td>
       <b><a href="https://modrinth.com/mod/no-chat-reports">No Chat Reports</a></b>
+    </td>
+   </tr>
+  <tr>
+    <td>
+      <a href="https://modrinth.com/mod/weaponmaster">
+        <img src="https://cdn.modrinth.com/data/qi1sj2da/b148e3355d9667d21310156d954a4d826e2baf7f_96.webp" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/weaponmaster">YDM's Weapon Master</a></b>
     </td>
    </tr>
    <tr>
