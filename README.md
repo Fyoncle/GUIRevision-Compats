@@ -1,6 +1,13 @@
-This resourcepack adds [GUI Revision](https://modrinth.com/resourcepack/gui-revision) compatibility to mods!
+## This resourcepack adds [GUI Revision](https://modrinth.com/resourcepack/gui-revision) compatibility to mods!
 
-## Compatibility List:
+<img src="https://raw.githubusercontent.com/Mqxx/GitHub-Markdown/1fd12c475756b54e467799d98eca7b406f109341/blockquotes/badge/dark-theme/info.svg" width="100">
+
+You should follow this load order for this to work:  
+![LoadOrder](https://cdn.modrinth.com/data/cached_images/2a446ad5a4db94b517f1c123f36363799def91c0.png)
+
+***
+
+### Compatibility List:
 
 **Trinket Mods:**
 
@@ -325,6 +332,26 @@ This resourcepack adds [GUI Revision](https://modrinth.com/resourcepack/gui-revi
       <b><a href="https://modrinth.com/mod/fabric-api">Fabric API</a></b>
     </td>
    </tr>
+      <tr>
+    <td>
+      <a href="https://modrinth.com/mod/better-advancements">
+        <img src="https://cdn.modrinth.com/data/Q2OqKxDG/b1519a191e62135647f66394d526d179ab5b598d.png" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/better-advancements">Better Advancements</a></b>
+    </td>
+   </tr>
+         <tr>
+    <td>
+      <a href="https://modrinth.com/mod/no-chat-reports">
+        <img src="https://cdn.modrinth.com/data/qQyHxfxd/icon.png" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/no-chat-reports">No Chat Reports</a></b>
+    </td>
+   </tr>
    <tr>
     <td>
       <a href="https://modrinth.com/mod/superb-steeds">
@@ -355,7 +382,7 @@ This resourcepack adds [GUI Revision](https://modrinth.com/resourcepack/gui-revi
       <b><a href="https://modrinth.com/mod/exposure">Exposure</a></b>
     </td>
   </tr>
-       <tr>
+   <tr>
     <td>
       <a href="https://modrinth.com/mod/aether">
         <img src="https://cdn.modrinth.com/data/YhmgMVyu/62975a496c6664dff0ac47994f02545cd109e2a9_96.webp" width="32">
@@ -373,6 +400,16 @@ This resourcepack adds [GUI Revision](https://modrinth.com/resourcepack/gui-revi
     </td>
     <td>
       <b><a href="https://modrinth.com/mod/horseman">Horse Man</a></b>
+     </td>
+    </tr>
+   <tr>
+    <td>
+      <a href="https://modrinth.com/mod/niftycarts">
+        <img src="https://cdn.modrinth.com/data/CXd6g9xp/b1e963152af2174d420b7b60946205fcdaefd8d7.png" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/niftycarts">NiftyCarts</a></b>
      </td>
     </tr>
      <tr>
@@ -395,6 +432,16 @@ This resourcepack adds [GUI Revision](https://modrinth.com/resourcepack/gui-revi
       <b><a href="https://modrinth.com/mod/bountiful">Bountiful</a></b>
     </td>
    </tr>
+       <tr>
+    <td>
+      <a href="https://modrinth.com/mod/easy-magic">
+        <img src="https://cdn.modrinth.com/data/9hx3AbJM/7afd602e584e52950fa27695ac269a2dc48712ca_96.webp" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/easy-magic">Easy Magic</a></b>
+    </td>
+  </tr>
     <tr>
     <td>
       <a href="https://modrinth.com/mod/easy-anvils">
