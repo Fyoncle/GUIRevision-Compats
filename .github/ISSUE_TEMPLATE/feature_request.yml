@@ -17,7 +17,7 @@ body:
   - type: textarea
     id: description
     attributes:
-      label: Which mobs you want it to be added?
+      label: Which GUIs you specifically thought it should be added?
       description: A clear explanation of what GUIs this mod contains that is suitable for GUI Revision Compats.
       placeholder: >-
         This mod adds new GUIs that would look great with GUI Revision.
