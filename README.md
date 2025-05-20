@@ -112,7 +112,17 @@ You should follow this load order for this to work:
       <b><a href="https://modrinth.com/mod/inventory-sorting">Inventory Sorting</a></b>
     </td>
   </tr>
-         <tr>
+   <tr>
+    <td>
+      <a href="https://modrinth.com/mod/copper-hopper">
+        <img src="https://cdn.modrinth.com/data/mTI5Xg5F/icon.png" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/copper-hopper">Copper Hopper</a></b>
+    </td>
+  </tr>
+   <tr>
     <td>
       <a href="https://modrinth.com/mod/toms-storage">
         <img src="https://cdn.modrinth.com/data/XZNI4Cpy/1949d7adbf962ac86912608edfb93fa5342bffd6_96.webp" width="32">
@@ -342,7 +352,7 @@ You should follow this load order for this to work:
       <b><a href="https://modrinth.com/mod/better-advancements">Better Advancements</a></b>
     </td>
    </tr>
-         <tr>
+    <tr>
     <td>
       <a href="https://modrinth.com/mod/paginatedadvancements">
         <img src="https://cdn.modrinth.com/data/pJogNFap/icon.png" width="32">
@@ -352,7 +362,7 @@ You should follow this load order for this to work:
       <b><a href="https://modrinth.com/mod/paginatedadvancements">Paginated Advancements & Custom Frames</a></b>
     </td>
    </tr>
-         <tr>
+     <tr>
     <td>
       <a href="https://modrinth.com/mod/no-chat-reports">
         <img src="https://cdn.modrinth.com/data/qQyHxfxd/icon.png" width="32">
@@ -360,6 +370,16 @@ You should follow this load order for this to work:
     </td>
     <td>
       <b><a href="https://modrinth.com/mod/no-chat-reports">No Chat Reports</a></b>
+    </td>
+   </tr>
+      <tr>
+    <td>
+      <a href="https://modrinth.com/mod/language-reload">
+        <img src="https://cdn.modrinth.com/data/uLbm7CG6/9cae8ec18cac3b1cc6ef1efa239f381d669264e6.png" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/language-reload">Language Reload</a></b>
     </td>
    </tr>
   <tr>
@@ -370,6 +390,86 @@ You should follow this load order for this to work:
     </td>
     <td>
       <b><a href="https://modrinth.com/mod/weaponmaster">YDM's Weapon Master</a></b>
+    </td>
+   </tr>
+        <tr>
+    <td>
+      <a href="https://modrinth.com/mod/vampirism">
+        <img src="https://cdn.modrinth.com/data/jVZ0F1wn/icon.png" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/vampirism">Vampirism</a></b>
+    </td>
+   </tr>
+        <tr>
+    <td>
+      <a href="https://modrinth.com/mod/werewolves">
+        <img src="https://cdn.modrinth.com/data/3ElBohKg/icon.png" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/werewolves">Werewolves</a></b>
+    </td>
+   </tr>
+     <tr>
+    <td>
+      <a href="https://modrinth.com/mod/just-leveling">
+        <img src="https://cdn.modrinth.com/data/EF21YRSP/f04a1208efc92edd6367c5000a0954c1c49959df.png" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/just-leveling">Just Leveling</a></b>
+    </td>
+   </tr>
+        <tr>
+    <td>
+      <a href="https://modrinth.com/mod/modmenu">
+        <img src="https://cdn.modrinth.com/data/mOgUt4GM/1bfe2006b38340e9d064700e41adf84a8abb1bd4_96.webp" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/modmenu">Mod Menu</a></b>
+    </td>
+   </tr>
+        <tr>
+    <td>
+      <a href="https://modrinth.com/mod/iris">
+        <img src="https://cdn.modrinth.com/data/YL57xq9U/18d0e7f076d3d6ed5bedd472b853909aac5da202_96.webp" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/iris">Iris Shaders</a></b>
+    </td>
+   </tr>
+        <tr>
+    <td>
+      <a href="https://modrinth.com/mod/entitytexturefeatures">
+        <img src="https://cdn.modrinth.com/data/BVzZfTc1/af683d206d50b05258d865b0d6e4aa2f2cee12f2_96.webp" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/entitytexturefeatures">[ETF] Entity Texture Features</a></b>
+    </td>
+   </tr>
+        <tr>
+    <td>
+      <a href="https://modrinth.com/mod/enchanting-infuser">
+        <img src="https://cdn.modrinth.com/data/ePv85y52/10a972d31ecf1df78d1d26ba2218c4d8253fc294_96.webp" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/enchanting-infuser">Enchanting Infuser</a></b>
+    </td>
+   </tr>
+        <tr>
+    <td>
+      <a href="https://modrinth.com/mod/completionists-index">
+        <img src="https://cdn.modrinth.com/data/iSCGCCV1/da675d0d25798b1340094072ec2ae9349ff823a8_96.webp" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/completionists-index">Completionist's Index</a></b>
     </td>
    </tr>
    <tr>
