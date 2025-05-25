@@ -77,6 +77,16 @@ You should follow this load order for this to work:
       <b><a href="https://modrinth.com/mod/emi">EMI</a></b>
     </td>
   </tr>
+       <tr>
+    <td>
+      <a href="https://modrinth.com/mod/whats-that-slot">
+        <img src="https://cdn.modrinth.com/data/7b5VoITI/icon.png" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/whats-that-slot">What's That Slot?</a></b>
+    </td>
+  </tr>
   </table>
 
 **Sorting:**
@@ -165,6 +175,16 @@ You should follow this load order for this to work:
     </td>
     <td>
       <b><a href="https://modrinth.com/mod/sophisticated-backpacks">Sophisticated Backpacks</a></b>
+    </td>
+  </tr>
+     <tr>
+    <td>
+      <a href="https://modrinth.com/mod/utility-belt">
+        <img src="https://cdn.modrinth.com/data/9ewe2JHJ/16d85fa2922b810aa2c1e0950546456eb6e1ea2b_96.webp" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/utility-belt">Utility Belt</a></b>
     </td>
   </tr>
   </table>
@@ -424,6 +444,16 @@ You should follow this load order for this to work:
    </tr>
         <tr>
     <td>
+      <a href="https://modrinth.com/mod/irons-spells-n-spellbooks">
+        <img src="https://cdn.modrinth.com/data/s4OWxYQQ/6a1f5c6adb434a6c56c1975af6f4fbde3ba907ff.png" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/irons-spells-n-spellbooks">Iron's Spells 'n Spellbooks</a></b>
+    </td>
+   </tr>
+     <tr>
+    <td>
       <a href="https://modrinth.com/mod/modmenu">
         <img src="https://cdn.modrinth.com/data/mOgUt4GM/1bfe2006b38340e9d064700e41adf84a8abb1bd4_96.webp" width="32">
       </a>
@@ -680,6 +710,16 @@ You should follow this load order for this to work:
     </td>
     <td>
       <b><a href="https://modrinth.com/mod/corpse">Corpse</a></b>
+    </td>
+  </tr>
+     <tr>
+    <td>
+      <a href="https://modrinth.com/mod/armor-hud">
+        <img src="https://cdn.modrinth.com/data/AghHBZC5/6a17c27095c6e4c010fd8959cf3baeb7177a77de_96.webp" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/armor-hud">Armor Hud</a></b>
     </td>
   </tr>
   </table>
