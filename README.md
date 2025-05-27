@@ -179,6 +179,16 @@ You should follow this load order for this to work:
   </tr>
      <tr>
     <td>
+      <a href="https://www.curseforge.com/minecraft/mc-mods/backpacked">
+        <img src="https://media.forgecdn.net/avatars/thumbnails/477/479/64/64/637772195243234104_animated.gif" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://www.curseforge.com/minecraft/mc-mods/backpacked">Backpacked</a></b>
+    </td>
+  </tr>
+     <tr>
+    <td>
       <a href="https://modrinth.com/mod/utility-belt">
         <img src="https://cdn.modrinth.com/data/9ewe2JHJ/16d85fa2922b810aa2c1e0950546456eb6e1ea2b_96.webp" width="32">
       </a>
@@ -442,7 +452,7 @@ You should follow this load order for this to work:
       <b><a href="https://modrinth.com/mod/just-leveling">Just Leveling</a></b>
     </td>
    </tr>
-        <tr>
+    <tr>
     <td>
       <a href="https://modrinth.com/mod/irons-spells-n-spellbooks">
         <img src="https://cdn.modrinth.com/data/s4OWxYQQ/6a1f5c6adb434a6c56c1975af6f4fbde3ba907ff.png" width="32">
@@ -450,6 +460,17 @@ You should follow this load order for this to work:
     </td>
     <td>
       <b><a href="https://modrinth.com/mod/irons-spells-n-spellbooks">Iron's Spells 'n Spellbooks</a></b>
+    </td>
+   </tr>
+     <tr>
+    <tr>
+    <td>
+      <a href="https://modrinth.com/mod/terra-curio">
+        <img src="https://cdn.modrinth.com/data/cylFY5iL/59524a63b7289af2bd76d3bcb1730a67d00bd871_96.webp" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/terra-curio">Terra Curio</a></b>
     </td>
    </tr>
      <tr>
@@ -462,7 +483,7 @@ You should follow this load order for this to work:
       <b><a href="https://modrinth.com/mod/modmenu">Mod Menu</a></b>
     </td>
    </tr>
-        <tr>
+    <tr>
     <td>
       <a href="https://modrinth.com/mod/iris">
         <img src="https://cdn.modrinth.com/data/YL57xq9U/18d0e7f076d3d6ed5bedd472b853909aac5da202_96.webp" width="32">
@@ -520,6 +541,26 @@ You should follow this load order for this to work:
     </td>
     <td>
       <b><a href="https://modrinth.com/mod/shulkerboxtooltip">Shulker Box Tooltip</a></b>
+    </td>
+  </tr>
+       <tr>
+    <td>
+      <a href="https://modrinth.com/mod/trashslot">
+        <img src="https://cdn.modrinth.com/data/vRYk0bv7/4063202f23390e6848ed212e447c0a1b71a7d32f_96.webp" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/trashslot">Trash Slot</a></b>
+    </td>
+  </tr>
+     <tr>
+    <td>
+      <a href="https://modrinth.com/mod/trade-cycling">
+        <img src="https://cdn.modrinth.com/data/qpPoAL6m/91dcbfba1d821a7a9248ec8191359d842332cc97.png" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/trade-cycling">Trade Cycling</a></b>
     </td>
   </tr>
      <tr>
@@ -720,6 +761,16 @@ You should follow this load order for this to work:
     </td>
     <td>
       <b><a href="https://modrinth.com/mod/armor-hud">Armor Hud</a></b>
+    </td>
+  </tr>
+       <tr>
+    <td>
+      <a href="https://modrinth.com/mod/cherished-worlds">
+        <img src="https://cdn.modrinth.com/data/3azQ6p0W/14d3a7430f4e834fc0a86d228c6e17e5b9b33a0a.png" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/cherished-worlds">Cherished Worlds</a></b>
     </td>
   </tr>
   </table>
