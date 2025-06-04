@@ -755,6 +755,16 @@ You should follow this load order for this to work:
   </tr>
      <tr>
     <td>
+      <a href="https://modrinth.com/mod/auth-me">
+        <img src="https://cdn.modrinth.com/data/yjgIrBjZ/icon.png" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/auth-me">Auth Me</a></b>
+    </td>
+  </tr>
+     <tr>
+    <td>
       <a href="https://modrinth.com/mod/armor-hud">
         <img src="https://cdn.modrinth.com/data/AghHBZC5/6a17c27095c6e4c010fd8959cf3baeb7177a77de_96.webp" width="32">
       </a>
@@ -763,7 +773,7 @@ You should follow this load order for this to work:
       <b><a href="https://modrinth.com/mod/armor-hud">Armor Hud</a></b>
     </td>
   </tr>
-       <tr>
+   <tr>
     <td>
       <a href="https://modrinth.com/mod/cherished-worlds">
         <img src="https://cdn.modrinth.com/data/3azQ6p0W/14d3a7430f4e834fc0a86d228c6e17e5b9b33a0a.png" width="32">
