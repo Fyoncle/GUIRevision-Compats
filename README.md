@@ -189,6 +189,16 @@ You should follow this load order for this to work:
   </tr>
      <tr>
     <td>
+      <a href="https://modrinth.com/mod/scout">
+        <img src="https://cdn.modrinth.com/data/QRYqnI15/icon.png" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/scout">Scout</a></b>
+    </td>
+  </tr>
+     <tr>
+    <td>
       <a href="https://modrinth.com/mod/utility-belt">
         <img src="https://cdn.modrinth.com/data/9ewe2JHJ/16d85fa2922b810aa2c1e0950546456eb6e1ea2b_96.webp" width="32">
       </a>
@@ -372,7 +382,27 @@ You should follow this load order for this to work:
       <b><a href="https://modrinth.com/mod/fabric-api">Fabric API</a></b>
     </td>
    </tr>
-      <tr>
+    <tr>
+    <td>
+      <a href="https://modrinth.com/mod/waystones">
+        <img src="https://cdn.modrinth.com/data/LOpKHB2A/6c81041b60d525d63c0b9da497db66cfda215e16_96.webp" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/waystones">Waystones</a></b>
+    </td>
+   </tr>
+     <tr>
+    <td>
+      <a href="https://modrinth.com/mod/fwaystones">
+        <img src="https://cdn.modrinth.com/data/sTZr7NVo/icon.png" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/fwaystones">Wraith Waystones</a></b>
+    </td>
+   </tr>
+   <tr>
     <td>
       <a href="https://modrinth.com/mod/better-advancements">
         <img src="https://cdn.modrinth.com/data/Q2OqKxDG/b1519a191e62135647f66394d526d179ab5b598d.png" width="32">
@@ -462,7 +492,6 @@ You should follow this load order for this to work:
       <b><a href="https://modrinth.com/mod/irons-spells-n-spellbooks">Iron's Spells 'n Spellbooks</a></b>
     </td>
    </tr>
-     <tr>
     <tr>
     <td>
       <a href="https://modrinth.com/mod/terra-curio">
@@ -743,6 +772,16 @@ You should follow this load order for this to work:
       <b><a href="https://modrinth.com/mod/show-me-your-skin">Show Me Your Skin!</a></b>
     </td>
   </tr>
+    <tr>
+    <td>
+      <a href="https://modrinth.com/mod/female-gender">
+        <img src="https://cdn.modrinth.com/data/bcOsQHnC/536edde42ca493b0f19a2de71ce4cfbb5e5528af_96.webp" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/female-gender">Female Gender Mod</a></b>
+    </td>
+  </tr>
    <tr>
     <td>
       <a href="https://modrinth.com/mod/corpse">
@@ -781,6 +820,16 @@ You should follow this load order for this to work:
     </td>
     <td>
       <b><a href="https://modrinth.com/mod/cherished-worlds">Cherished Worlds</a></b>
+    </td>
+  </tr>
+   <tr>
+    <td>
+      <a href="https://modrinth.com/mod/fishermens-trap">
+        <img src="https://cdn.modrinth.com/data/ltRggnDx/11b9c9371c433434de9d8538aeb61e1b73aad6c4_96.webp" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/fishermens-trap">Fishermen's Trap [Neo/Fabric]</a></b>
     </td>
   </tr>
   </table>
