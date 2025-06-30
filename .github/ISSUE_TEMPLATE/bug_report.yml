@@ -38,7 +38,7 @@ body:
       label: Describe the bug
       description: A clear explanation of the bug.
       placeholder: >-
-        Version v1.x not working on Minecraft 1.xx.x
+        Version v1.x not working on Minecraft 1.2x.x
     validations:
       required: true
   - type: textarea
@@ -48,7 +48,7 @@ body:
       description: >-
         Required steps to reproduce the bug.
       placeholder: |
-        1. Install GUI Revision & GUI Revision Compats on Minecraft 1.xx.x
+        1. Install GUI Revision & GUI Revision Compats on Minecraft 1.2x.x
         2. Join a world
         3. See this mod stated as compatible is not working on this version
   - type: input
