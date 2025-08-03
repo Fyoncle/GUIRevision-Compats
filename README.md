@@ -1,5 +1,15 @@
 ## This resourcepack adds [GUI Revision](https://modrinth.com/resourcepack/gui-revision) compatibility to mods!
 
+<div align="center">
+
+<a href="https://modrinth.com/modpack/elysium-days" target="_blank" rel="noopener noreferrer">
+  <img src="https://wsrv.nl/?url=https://raw.githubusercontent.com/Fyoncle/Elysium-Days/ae9136ed921e408ba768262fb8afb24d9ad47d94/ed_vector.svg" alt="As seen in Elysium Days">
+</a>
+
+</div>
+
+#
+
 <img src="https://raw.githubusercontent.com/Mqxx/GitHub-Markdown/1fd12c475756b54e467799d98eca7b406f109341/blockquotes/badge/dark-theme/info.svg" width="100">
 
 You should follow this load order for this to work:  
@@ -229,7 +239,7 @@ You should follow this load order for this to work:
       </a>
     </td>
     <td>
-      <b><a href="xlinkxxxxxxxxxxhttps://modrinth.com/mod/lets-do-bakery-farmcharm-compatxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx">[Let's Do] Bakery - Farm&Charm Compat</a></b>
+      <b><a href="https://modrinth.com/mod/lets-do-bakery-farmcharm-compat">[Let's Do] Bakery - Farm&Charm Compat</a></b>
     </td>
   </tr>
      <tr>
@@ -252,7 +262,27 @@ You should follow this load order for this to work:
       <b><a href="https://modrinth.com/mod/lets-do-candlelight-farmcharm-compat">[Let's Do] Candlelight - Farm&Charm compat</a></b>
     </td>
   </tr>
-     <tr>
+   <tr>
+    <td>
+      <a href="https://modrinth.com/mod/lets-do-brewery">
+        <img src="https://cdn.modrinth.com/data/cV5LQXKx/4786b25ca8a46d1a2a500668c030b93c87518e86_96.webp" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/lets-do-brewery">Legacy: [Let's Do] Brewery</a></b>
+    </td>
+  </tr>
+   <tr>
+    <td>
+      <a href="https://modrinth.com/mod/lets-do-brewery-farmcharm-compat">
+        <img src="https://cdn.modrinth.com/data/b7NV2plI/a45854bcbfe831c981646bb87caf2c32ceb2c8be_96.webp" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/lets-do-brewery-farmcharm-compat">[Let's Do] Brewery - Farm&Charm Compat</a></b>
+    </td>
+  </tr>
+    <tr>
     <td>
       <a href="https://modrinth.com/mod/lets-do-vinery">
         <img src="https://cdn.modrinth.com/data/1DWmBJVA/15cf24557d40701ce68df224b50115771f953806_96.webp" width="32">
@@ -444,6 +474,36 @@ You should follow this load order for this to work:
    </tr>
   <tr>
     <td>
+      <a href="https://modrinth.com/mod/overflowing-bars">
+        <img src="https://cdn.modrinth.com/data/XD7XOrAF/cf44cdc731da7eb473b9e682b74b9c9bbdb49ce4_96.webp" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/overflowing-bars">Overflowing Bars</a></b>
+    </td>
+   </tr>
+  <tr>
+    <td>
+      <a href="https://modrinth.com/mod/regions-unexplored">
+        <img src="https://cdn.modrinth.com/data/Tkikq67H/74fd768dbe153d1fea08e0de64cab62a81be7a09_96.webp" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/regions-unexplored">Regions Unexplored</a></b>
+    </td>
+   </tr>
+  <tr>
+    <td>
+      <a href="https://modrinth.com/mod/numismatic-overhaul">
+        <img src="https://cdn.modrinth.com/data/ZXm8hVxN/icon.png" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/numismatic-overhaul">Numismatic Overhaul</a></b>
+    </td>
+   </tr>
+  <tr>
+    <td>
       <a href="https://modrinth.com/mod/weaponmaster">
         <img src="https://cdn.modrinth.com/data/qi1sj2da/b148e3355d9667d21310156d954a4d826e2baf7f_96.webp" width="32">
       </a>
@@ -452,7 +512,7 @@ You should follow this load order for this to work:
       <b><a href="https://modrinth.com/mod/weaponmaster">YDM's Weapon Master</a></b>
     </td>
    </tr>
-        <tr>
+    <tr>
     <td>
       <a href="https://modrinth.com/mod/vampirism">
         <img src="https://cdn.modrinth.com/data/jVZ0F1wn/icon.png" width="32">
@@ -535,7 +595,7 @@ You should follow this load order for this to work:
         <tr>
     <td>
       <a href="https://modrinth.com/mod/enchanting-infuser">
-        <img src="https://cdn.modrinth.com/data/ePv85y52/10a972d31ecf1df78d1d26ba2218c4d8253fc294_96.webp" width="32">
+        <img src="https://cdn.modrinth.com/data/ePv85y52/861f9b6c107e871672fe2ab1d72f2d818eb67441_96.webp" width="32">
       </a>
     </td>
     <td>
@@ -655,7 +715,7 @@ You should follow this load order for this to work:
        <tr>
     <td>
       <a href="https://modrinth.com/mod/easy-magic">
-        <img src="https://cdn.modrinth.com/data/9hx3AbJM/7afd602e584e52950fa27695ac269a2dc48712ca_96.webp" width="32">
+        <img src="https://cdn.modrinth.com/data/9hx3AbJM/5387d7206ba13438d088d127845d255c1a79b9c2_96.webp" width="32">
       </a>
     </td>
     <td>
@@ -665,7 +725,7 @@ You should follow this load order for this to work:
     <tr>
     <td>
       <a href="https://modrinth.com/mod/easy-anvils">
-        <img src="https://cdn.modrinth.com/data/OZBR5JT5/8312814fbff95373a6888f424e44a3b3f927febd_96.webp" width="32">
+        <img src="https://cdn.modrinth.com/data/OZBR5JT5/c317debbe36e008daa3a0af715adf615b365aa5c_96.webp" width="32">
       </a>
     </td>
     <td>
