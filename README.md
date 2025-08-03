@@ -605,7 +605,7 @@ You should follow this load order for this to work:
         <tr>
     <td>
       <a href="https://modrinth.com/mod/completionists-index">
-        <img src="https://cdn.modrinth.com/data/iSCGCCV1/da675d0d25798b1340094072ec2ae9349ff823a8_96.webp" width="32">
+        <img src="https://cdn.modrinth.com/data/iSCGCCV1/e0b7c288a37d3a868a667354a6b874e3283a8ec8_96.webp" width="32">
       </a>
     </td>
     <td>
