@@ -4,7 +4,7 @@ title: '[Suggestion]: '
 assignees:
   - Fyoncle
 labels:
-  - suggestion
+  - compatibility
 body:
   - type: input
     id: mod_name
