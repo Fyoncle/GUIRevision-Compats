@@ -414,6 +414,16 @@ You should follow this load order for this to work:
    </tr>
     <tr>
     <td>
+      <a href="https://modrinth.com/mod/tide">
+        <img src="https://cdn.modrinth.com/data/die1AF7i/f3c7d264a083b99b576dec5f411e4eaf0050d7cb_96.webp" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/tide">Tide</a></b>
+    </td>
+   </tr>
+    <tr>
+    <td>
       <a href="https://modrinth.com/mod/waystones">
         <img src="https://cdn.modrinth.com/data/LOpKHB2A/6c81041b60d525d63c0b9da497db66cfda215e16_96.webp" width="32">
       </a>
@@ -462,6 +472,16 @@ You should follow this load order for this to work:
       <b><a href="https://modrinth.com/mod/no-chat-reports">No Chat Reports</a></b>
     </td>
    </tr>
+     <tr>
+    <td>
+      <a href="https://modrinth.com/mod/extrasoundsforge">
+        <img src="https://cdn.modrinth.com/data/jv7tzVE4/aac60640bfd4a44890f075aea150fac41e698da4_96.webp" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/extrasoundsforge">ExtraSounds Next</a></b>
+    </td>
+   </tr>
       <tr>
     <td>
       <a href="https://modrinth.com/mod/language-reload">
@@ -494,6 +514,16 @@ You should follow this load order for this to work:
    </tr>
   <tr>
     <td>
+      <a href="https://modrinth.com/mod/hellions-sniffer+">
+        <img src="https://cdn.modrinth.com/data/BVgHoKxg/5536b162999b886888e1559c1786ff308594f29b_96.webp" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/hellions-sniffer+">Hellion's Sniffer+</a></b>
+    </td>
+   </tr>
+  <tr>
+    <td>
       <a href="https://modrinth.com/mod/numismatic-overhaul">
         <img src="https://cdn.modrinth.com/data/ZXm8hVxN/icon.png" width="32">
       </a>
@@ -510,6 +540,16 @@ You should follow this load order for this to work:
     </td>
     <td>
       <b><a href="https://modrinth.com/mod/weaponmaster">YDM's Weapon Master</a></b>
+    </td>
+   </tr>
+  <tr>
+    <td>
+      <a href="https://modrinth.com/mod/cold-sweat">
+        <img src="https://cdn.modrinth.com/data/uXhSmPjd/bf55420556c30d44d2f5cf7b8915705b9214b4ef.png" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/cold-sweat">Cold Sweat</a></b>
     </td>
    </tr>
     <tr>
