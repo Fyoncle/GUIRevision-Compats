@@ -444,6 +444,16 @@ You should follow this load order for this to work:
    </tr>
    <tr>
     <td>
+      <a href="https://modrinth.com/mod/bettersmithingtable">
+        <img src="https://cdn.modrinth.com/data/Vt8TI045/1caeffd3780a23e493871581e601993db2267af5.png" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/bettersmithingtable">Better Smithing Table</a></b>
+    </td>
+   </tr>
+   <tr>
+    <td>
       <a href="https://modrinth.com/mod/better-advancements">
         <img src="https://cdn.modrinth.com/data/Q2OqKxDG/b1519a191e62135647f66394d526d179ab5b598d.png" width="32">
       </a>
@@ -550,6 +560,16 @@ You should follow this load order for this to work:
     </td>
     <td>
       <b><a href="https://modrinth.com/mod/cold-sweat">Cold Sweat</a></b>
+    </td>
+   </tr>
+  <tr>
+    <td>
+      <a href="https://modrinth.com/mod/starter-kit">
+        <img src="https://cdn.modrinth.com/data/6L3ydNi8/946acc868c947e5f3ff7a1c1ccb268d09a14f6e5_96.webp" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/starter-kit">Starter Kit</a></b>
     </td>
    </tr>
     <tr>
