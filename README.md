@@ -642,7 +642,7 @@ You should follow this load order for this to work:
       <b><a href="https://modrinth.com/mod/iris">Iris Shaders</a></b>
     </td>
    </tr>
-        <tr>
+    <tr>
     <td>
       <a href="https://modrinth.com/mod/entitytexturefeatures">
         <img src="https://cdn.modrinth.com/data/BVzZfTc1/af683d206d50b05258d865b0d6e4aa2f2cee12f2_96.webp" width="32">
@@ -652,7 +652,17 @@ You should follow this load order for this to work:
       <b><a href="https://modrinth.com/mod/entitytexturefeatures">[ETF] Entity Texture Features</a></b>
     </td>
    </tr>
-        <tr>
+    <tr>
+    <td>
+      <a href="https://modrinth.com/mod/enchancement">
+        <img src="https://cdn.modrinth.com/data/6hN1V6wJ/d8173c64e1db27f26325115fc101368b86916751_96.webp" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/enchancement">Enchancement</a></b>
+    </td>
+   </tr>
+     <tr>
     <td>
       <a href="https://modrinth.com/mod/enchanting-infuser">
         <img src="https://cdn.modrinth.com/data/ePv85y52/861f9b6c107e871672fe2ab1d72f2d818eb67441_96.webp" width="32">
