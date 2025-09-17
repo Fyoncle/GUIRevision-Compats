@@ -962,6 +962,26 @@ You should follow this load order for this to work:
       <b><a href="https://modrinth.com/mod/fishermens-trap">Fishermen's Trap [Neo/Fabric]</a></b>
     </td>
   </tr>
+   <tr>
+    <td>
+      <a href="https://modrinth.com/mod/clutter-no-more">
+        <img src="https://cdn.modrinth.com/data/ewyjbmG4/ca45ee00f0fe939930fa1a3dc6b3f94eda986827.gif" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/clutter-no-more">Clutter No More</a></b>
+    </td>
+  </tr>
+   <tr>
+    <td>
+      <a href="https://modrinth.com/mod/modern-world-creation">
+        <img src="https://cdn.modrinth.com/data/xHskr2cS/d6f3e3a26de3811ff4e969a1f3d4be6a3f8ea8e2_96.webp" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/modern-world-creation">Modern World Creation</a></b>
+    </td>
+  </tr>
   </table>
 
 #
