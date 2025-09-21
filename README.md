@@ -872,7 +872,7 @@ You should follow this load order for this to work:
       <b><a href="https://modrinth.com/mod/universal-sawmill">Sawmill</a></b>
     </td>
   </tr>
-       <tr>
+   <tr>
     <td>
       <a href="https://modrinth.com/mod/better-archeology">
         <img src="https://cdn.modrinth.com/data/zCh7omyG/6e077f9529b6789aed7696655d8fd84758e1b54e_96.webp" width="32">
@@ -882,7 +882,17 @@ You should follow this load order for this to work:
       <b><a href="https://modrinth.com/mod/better-archeology">Better Archeology</a></b>
     </td>
   </tr>
-       <tr>
+   <tr>
+    <td>
+      <a href="https://modrinth.com/mod/archeologicalmod">
+        <img src="https://cdn.modrinth.com/data/z24qKJXQ/1500eaf036a98e0d822eba6542eeec37e56a0244_96.webp" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/archeologicalmod">Archeological</a></b>
+    </td>
+  </tr>
+   <tr>
     <td>
       <a href="https://modrinth.com/mod/cosmetic-armor">
         <img src="https://cdn.modrinth.com/data/JrIYhb1P/icon.png" width="32">
@@ -890,6 +900,16 @@ You should follow this load order for this to work:
     </td>
     <td>
       <b><a href="https://modrinth.com/mod/cosmetic-armor">Cosmetic Armor</a></b>
+    </td>
+  </tr>
+   <tr>
+    <td>
+      <a href="https://www.curseforge.com/minecraft/mc-mods/cosmetic-armor-reworked">
+        <img src="https://media.forgecdn.net/avatars/thumbnails/27/600/64/64/635812915333870435.png" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://www.curseforge.com/minecraft/mc-mods/cosmetic-armor-reworked">Cosmetic Armor Reworked</a></b>
     </td>
   </tr>
    <tr>
