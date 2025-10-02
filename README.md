@@ -432,7 +432,7 @@ You should follow this load order for this to work:
       <b><a href="https://modrinth.com/mod/waystones">Waystones</a></b>
     </td>
    </tr>
-     <tr>
+   <tr>
     <td>
       <a href="https://modrinth.com/mod/fwaystones">
         <img src="https://cdn.modrinth.com/data/sTZr7NVo/icon.png" width="32">
@@ -440,6 +440,46 @@ You should follow this load order for this to work:
     </td>
     <td>
       <b><a href="https://modrinth.com/mod/fwaystones">Wraith Waystones</a></b>
+    </td>
+   </tr>
+    <tr>
+    <td>
+      <a href="https://modrinth.com/mod/spell-engine">
+        <img src="https://cdn.modrinth.com/data/XvoWJaA2/9f3d222d82aebadd5325ae53a927463f1e20abd0.png" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/spell-engine">Spell Engine</a></b>
+    </td>
+   </tr>
+    <tr>
+    <td>
+      <a href="https://modrinth.com/mod/relics-rpg">
+        <img src="https://cdn.modrinth.com/data/BDQucwF0/6aac428c17df067875dfff8a37b6f2a3535ea2cc_96.webp" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/relics-rpg">Relics (RPG Series)</a></b>
+    </td>
+   </tr>
+    <tr>
+    <td>
+      <a href="https://modrinth.com/mod/runes">
+        <img src="https://cdn.modrinth.com/data/lP9Yrr1E/d80117583d3b45e7e8d902e3e7e27ef15ee9b4dd_96.webp" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/runes">Runes</a></b>
+    </td>
+   </tr>
+    <tr>
+    <td>
+      <a href="https://modrinth.com/mod/ends-phantasm">
+        <img src="https://cdn.modrinth.com/data/JGfljjtd/87262a2ee2887548c65e32e9462e15178abdcfa9_96.webp" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/ends-phantasm">End's Phantasm</a></b>
     </td>
    </tr>
    <tr>
