@@ -17,6 +17,21 @@ You should follow this load order for this to work:
 
 ---
 
+<details>
+<summary>🔎 F.A.Q</summary>
+
+- **Q: Vanilla container names overlapping with GUI Revision on other languages.**
+  - **A:** You need to install [No Container Labels](https://modrinth.com/mod/no-container-labels)!
+
+#
+
+- **Q: Are you planning to add mod compatibility for GUI Revision Dark?**
+  - **A:** No, I don't. There is already plenty out there like [More Modded GUI Revision Dark](https://modrinth.com/resourcepack/more-modded-gui-revision-dark)
+
+</details>
+
+---
+
 ### Compatibility List:
 
 **Trinket Mods:**
@@ -387,7 +402,7 @@ You should follow this load order for this to work:
       <b><a href="https://modrinth.com/mod/farmers-delight-refabricated">Farmer's Delight Refabricated</a></b>
     </td>
   </tr>
-    <tr>
+   <tr>
     <td>
       <a href="https://modrinth.com/mod/farmers-delight-fabric">
         <img src="https://cdn.modrinth.com/data/4EakbH8e/icon.png" width="32">
@@ -395,6 +410,36 @@ You should follow this load order for this to work:
     </td>
     <td>
       <b><a href="https://modrinth.com/mod/farmers-delight-fabric">[Deprecated] Farmer's Delight [Fabric]</a></b>
+    </td>
+  </tr>
+   <tr>
+    <td>
+      <a href="https://modrinth.com/mod/brewin-and-chewin">
+        <img src="https://cdn.modrinth.com/data/hIu9KJTT/f7c591a80046859d3d45c04ecbbc54d264483d5e.png" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/brewin-and-chewin">Brewin' And Chewin'</a></b>
+    </td>
+  </tr>
+   <tr>
+    <td>
+      <a href="https://www.curseforge.com/minecraft/mc-mods/farmers-respite">
+        <img src="https://media.forgecdn.net/avatars/thumbnails/460/721/64/64/637739148850316506.png" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://www.curseforge.com/minecraft/mc-mods/farmers-respite">Farmer's Respite</a></b>
+    </td>
+  </tr>
+   <tr>
+    <td>
+      <a href="https://modrinth.com/mod/vintage-delight">
+        <img src="https://cdn.modrinth.com/data/T7XZLHGD/c16e41dfab547d38893425286ef80c4b6ea768d3.png" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/vintage-delight">Vintage Delight</a></b>
     </td>
   </tr>
 </table>
@@ -414,6 +459,16 @@ You should follow this load order for this to work:
    </tr>
     <tr>
     <td>
+      <a href="https://modrinth.com/mod/sortilege">
+        <img src="https://cdn.modrinth.com/data/GyVUSbid/5bf1f36f784b5b1f32ed6d7dc9d81c94f16f305e_96.webp" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/sortilege">Sortilege</a></b>
+    </td>
+   </tr>
+    <tr>
+    <td>
       <a href="https://modrinth.com/mod/tide">
         <img src="https://cdn.modrinth.com/data/die1AF7i/f3c7d264a083b99b576dec5f411e4eaf0050d7cb_96.webp" width="32">
       </a>
@@ -421,6 +476,16 @@ You should follow this load order for this to work:
     <td>
       <b><a href="https://modrinth.com/mod/tide">Tide</a></b>
     </td>
+   </tr>
+    <tr>
+     <td>
+      <a href="https://modrinth.com/mod/starcatcher">
+        <img src="https://cdn.modrinth.com/data/h2jXvxNR/71c75fa1fb2fbd0c7d3ed6e17d6b8b96bb2810b2.png" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/starcatcher">Starcatcher</a></b>
+     </td>
    </tr>
     <tr>
     <td>
@@ -437,7 +502,6 @@ You should follow this load order for this to work:
       <a href="https://modrinth.com/mod/fwaystones">
         <img src="https://cdn.modrinth.com/data/sTZr7NVo/icon.png" width="32">
       </a>
-    </td>
     <td>
       <b><a href="https://modrinth.com/mod/fwaystones">Wraith Waystones</a></b>
     </td>
@@ -702,7 +766,17 @@ You should follow this load order for this to work:
       <b><a href="https://modrinth.com/mod/enchancement">Enchancement</a></b>
     </td>
    </tr>
-     <tr>
+    <tr>
+    <td>
+      <a href="https://modrinth.com/mod/enchiridion">
+        <img src="https://cdn.modrinth.com/data/LXagYH7y/bf1b6a6a6e6599f74291265b7860d0697052f213.png" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/enchiridion">Enchiridion</a></b>
+    </td>
+   </tr>
+   <tr>
     <td>
       <a href="https://modrinth.com/mod/enchanting-infuser">
         <img src="https://cdn.modrinth.com/data/ePv85y52/861f9b6c107e871672fe2ab1d72f2d818eb67441_96.webp" width="32">
@@ -780,6 +854,26 @@ You should follow this load order for this to work:
     </td>
     <td>
       <b><a href="https://modrinth.com/mod/aether">The Aether</a></b>
+    </td>
+  </tr>
+   <tr>
+    <td>
+      <a href="https://modrinth.com/mod/aether-beyond-parity">
+        <img src="https://cdn.modrinth.com/data/GaNoWOiY/c368790a7cb864a42db063981265945266a8a0e1_96.webp" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/aether-beyond-parity">Aether Addon: Beyond Parity</a></b>
+    </td>
+  </tr>
+   <tr>
+    <td>
+      <a href="https://modrinth.com/mod/aether-protect-your-moa">
+        <img src="https://cdn.modrinth.com/data/6KeEgbxe/7c092cc67621c6721541841071d58919b8dcc817_96.webp" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/aether-protect-your-moa">Aether Addon: Protect Your Moa</a></b>
     </td>
   </tr>
      <tr>
