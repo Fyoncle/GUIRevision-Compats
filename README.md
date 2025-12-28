@@ -20,7 +20,7 @@ You should follow this load order for this to work:
 <details>
 <summary>🔎 F.A.Q</summary>
 
-- **Q: Vanilla container names overlapping with GUI Revision on other languages.**
+- **Q: How do I fix container names overlapping with GUI Revision on languages other than EN_US?**
   - **A:** You need to install [No Container Labels](https://modrinth.com/mod/no-container-labels)!
 
 #
@@ -210,6 +210,16 @@ You should follow this load order for this to work:
     </td>
     <td>
       <b><a href="https://www.curseforge.com/minecraft/mc-mods/backpacked">Backpacked</a></b>
+    </td>
+  </tr>
+     <tr>
+    <td>
+      <a href="https://modrinth.com/mod/yyzs-backpack">
+        <img src="https://cdn.modrinth.com/data/zO7tsTJN/7a95b52ed995596496115bd97441f10fb7f79019_96.webp" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/yyzs-backpack">yyz's backpack</a></b>
     </td>
   </tr>
      <tr>
@@ -442,6 +452,36 @@ You should follow this load order for this to work:
       <b><a href="https://modrinth.com/mod/vintage-delight">Vintage Delight</a></b>
     </td>
   </tr>
+   <tr>
+    <td>
+      <a href="https://modrinth.com/mod/hearth-and-harvest">
+        <img src="https://cdn.modrinth.com/data/8EEEXOzj/0910201ffdd04d5b8485b6cf2b0417a0c372286b.png" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/hearth-and-harvest">Hearth and Harvest</a></b>
+    </td>
+  </tr>
+   <tr>
+    <td>
+      <a href="https://modrinth.com/mod/crabbers-delight">
+        <img src="https://cdn.modrinth.com/data/gBGdVBJy/dda9137ec6e5a1abccbf921e100c20dcfa5cba2d.png" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/crabbers-delight">Crabber's Delight</a></b>
+    </td>
+  </tr>
+   <tr>
+    <td>
+      <a href="https://modrinth.com/mod/frycooks-delight">
+        <img src="https://cdn.modrinth.com/data/Kbl6BTg5/8ccb96b404499e52c208e5ee0b36cff7c3ec7ce7.png" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/frycooks-delight">Frycook's Delight</a></b>
+    </td>
+  </tr>
 </table>
 
 **Other Mods:**
@@ -624,6 +664,16 @@ You should follow this load order for this to work:
     </td>
     <td>
       <b><a href="https://modrinth.com/mod/regions-unexplored">Regions Unexplored</a></b>
+    </td>
+   </tr>
+  <tr>
+    <td>
+      <a href="https://modrinth.com/mod/naturalist">
+        <img src="https://cdn.modrinth.com/data/F8BQNPWX/06f421b5c96c2002414373f3e23e07063021a370_96.webp" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/naturalist">Naturalist</a></b>
     </td>
    </tr>
   <tr>
@@ -819,7 +869,7 @@ You should follow this load order for this to work:
        <tr>
     <td>
       <a href="https://modrinth.com/mod/trashslot">
-        <img src="https://cdn.modrinth.com/data/vRYk0bv7/4063202f23390e6848ed212e447c0a1b71a7d32f_96.webp" width="32">
+        <img src="https://cdn.modrinth.com/data/vRYk0bv7/f700e747710e4d485c79617fe993cc53887a3da6.png" width="32">
       </a>
     </td>
     <td>
@@ -938,6 +988,16 @@ You should follow this load order for this to work:
   </tr>
       <tr>
     <td>
+      <a href="https://modrinth.com/mod/echo-chest">
+        <img src="https://cdn.modrinth.com/data/m3pkVbY8/b873e18b049ca60825ba62cfde75568e93ff6193_96.webp" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/echo-chest">Echo Chest</a></b>
+    </td>
+  </tr>
+      <tr>
+    <td>
       <a href="https://modrinth.com/mod/supplementaries">
         <img src="https://cdn.modrinth.com/data/fFEIiSDQ/e9f5f66fa3b67e54acb91258a1428d68311c58bc_96.webp" width="32">
       </a>
@@ -1019,7 +1079,7 @@ You should follow this load order for this to work:
    <tr>
     <td>
       <a href="https://modrinth.com/mod/archeologicalmod">
-        <img src="https://cdn.modrinth.com/data/z24qKJXQ/1500eaf036a98e0d822eba6542eeec37e56a0244_96.webp" width="32">
+        <img src="https://cdn.modrinth.com/data/z24qKJXQ/39867ee8d164fd37e068cf5f49967056d40a142c_96.webp" width="32">
       </a>
     </td>
     <td>
@@ -1056,8 +1116,18 @@ You should follow this load order for this to work:
       <b><a href="https://modrinth.com/mod/show-me-your-skin">Show Me Your Skin!</a></b>
     </td>
   </tr>
-    <tr>
+     <tr>
     <td>
+      <a href="https://modrinth.com/mod/visible-armor-slots">
+        <img src="https://cdn.modrinth.com/data/3ICgdDRt/608d149bc5f841bd363ccbfd12de00156c40ebe9_96.webp" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/visible-armor-slots">Visible Armor Slots</a></b>
+    </td>
+  </tr>
+    <tr>
+     <td>
       <a href="https://modrinth.com/mod/female-gender">
         <img src="https://cdn.modrinth.com/data/bcOsQHnC/536edde42ca493b0f19a2de71ce4cfbb5e5528af_96.webp" width="32">
       </a>
@@ -1134,6 +1204,16 @@ You should follow this load order for this to work:
     </td>
     <td>
       <b><a href="https://modrinth.com/mod/modern-world-creation">Modern World Creation</a></b>
+    </td>
+  </tr>
+   <tr>
+    <td>
+      <a href="https://modrinth.com/datapack/bft">
+        <img src="https://cdn.modrinth.com/data/XTJUiumo/4c0f0fe4e1deb7416bf53bc9b51ea59e541d9a4e.png" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/datapack/bft">Better Fletching Tables (BFT)</a></b>
     </td>
   </tr>
   </table>
