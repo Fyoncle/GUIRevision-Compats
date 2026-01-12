@@ -510,11 +510,11 @@ You should follow this load order for this to work:
     <tr>
     <td>
       <a href="https://modrinth.com/mod/tide">
-        <img src="https://cdn.modrinth.com/data/die1AF7i/f3c7d264a083b99b576dec5f411e4eaf0050d7cb_96.webp" width="32">
+        <img src="https://cdn.modrinth.com/data/die1AF7i/092d1c739b014b6e6480188addb762c30c63f20a_96.webp" width="32">
       </a>
     </td>
     <td>
-      <b><a href="https://modrinth.com/mod/tide">Tide</a></b>
+      <b><a href="https://modrinth.com/mod/tide">Tide 2</a></b>
     </td>
    </tr>
     <tr>
@@ -779,7 +779,7 @@ You should follow this load order for this to work:
      <tr>
     <td>
       <a href="https://modrinth.com/mod/modmenu">
-        <img src="https://cdn.modrinth.com/data/mOgUt4GM/1bfe2006b38340e9d064700e41adf84a8abb1bd4_96.webp" width="32">
+        <img src="https://cdn.modrinth.com/data/mOgUt4GM/5a20ed1450a0e1e79a1fe04e61bb4e5878bf1d20.png" width="32">
       </a>
     </td>
     <td>
@@ -1214,6 +1214,16 @@ You should follow this load order for this to work:
     </td>
     <td>
       <b><a href="https://modrinth.com/datapack/bft">Better Fletching Tables (BFT)</a></b>
+    </td>
+  </tr>
+   <tr>
+    <td>
+      <a href="https://modrinth.com/mod/boss-checklist">
+        <img src="https://cdn.modrinth.com/data/z1Dv56jq/89fde04d88799a7f885851e60101deb0d3162121_96.webp" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/boss-checklist">Boss Checklist</a></b>
     </td>
   </tr>
   </table>
