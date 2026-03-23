@@ -74,6 +74,26 @@ You should follow this load order for this to work:
    <table>
    <tr>
     <td>
+      <a href="https://modrinth.com/mod/emi">
+        <img src="https://cdn.modrinth.com/data/fRiHVvU7/395fe5302b2bab612ef0623509f768f3c5a5ee0f.webp" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/emi">EMI</a></b>
+    </td>
+  </tr>
+   <tr>
+    <td>
+      <a href="https://modrinth.com/mod/emi-plus-backport">
+        <img src="https://cdn.modrinth.com/data/N9WucjHL/a0b60f7097f83fd95debc25e205fd7995e4c86a2.png" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/emi-plus-backport">EMI++ Backport</a></b>
+    </td>
+  </tr>
+   <tr>
+    <td>
       <a href="https://modrinth.com/mod/rei">
         <img src="https://cdn.modrinth.com/data/nfn13YXA/54ac5daa4166011bae713448e84413987316433a_96.webp" width="32">
       </a>
@@ -94,22 +114,12 @@ You should follow this load order for this to work:
   </tr>
      <tr>
     <td>
-      <a href="https://modrinth.com/mod/emi">
-        <img src="https://cdn.modrinth.com/data/fRiHVvU7/395fe5302b2bab612ef0623509f768f3c5a5ee0f.webp" width="32">
+      <a href="https://modrinth.com/mod/rrv">
+        <img src="https://cdn.modrinth.com/data/5VolwT6c/c91c6519e275d9eeedd7e2cd5de7b253229942e6.webp" width="32">
       </a>
     </td>
     <td>
-      <b><a href="https://modrinth.com/mod/emi">EMI</a></b>
-    </td>
-  </tr>
-       <tr>
-    <td>
-      <a href="https://modrinth.com/mod/whats-that-slot">
-        <img src="https://cdn.modrinth.com/data/7b5VoITI/icon.png" width="32">
-      </a>
-    </td>
-    <td>
-      <b><a href="https://modrinth.com/mod/whats-that-slot">What's That Slot?</a></b>
+      <b><a href="https://modrinth.com/mod/rrv">Reliable Recipe Viewer</a></b>
     </td>
   </tr>
   </table>
@@ -250,7 +260,7 @@ You should follow this load order for this to work:
    <tr>
     <td>
       <a href="https://modrinth.com/mod/lets-do-bakery">
-        <img src="https://cdn.modrinth.com/data/WFwYiVoG/26038467ace7c0a68b660e94278ca52274ab0985_96.webp" width="32">
+        <img src="https://cdn.modrinth.com/data/WFwYiVoG/b51e5475e9af4cd585a6b08e86c3b59109eb3482_96.webp" width="32">
       </a>
     </td>
     <td>
@@ -260,7 +270,7 @@ You should follow this load order for this to work:
      <tr>
     <td>
       <a href="https://modrinth.com/mod/lets-do-bakery-farmcharm-compat">
-        <img src="https://cdn.modrinth.com/data/oNB5jhlA/7554d5007539c835d705b6af9d9df1591f7f5c69_96.webp" width="32">
+        <img src="https://cdn.modrinth.com/data/oNB5jhlA/263380c2138f7f28f37639b719cc391334cbb7d5_96.webp" width="32">
       </a>
     </td>
     <td>
@@ -270,7 +280,7 @@ You should follow this load order for this to work:
      <tr>
     <td>
       <a href="https://modrinth.com/mod/lets-do-candlelight">
-        <img src="https://cdn.modrinth.com/data/mPND0Adp/9ddf15da15d9278e8d6fe0c871eb8dda072f2e6b_96.webp" width="32">
+        <img src="https://cdn.modrinth.com/data/mPND0Adp/462abac625891cd5e9cdec5fd4e11b160a4474ac_96.webp" width="32">
       </a>
     </td>
     <td>
@@ -280,7 +290,7 @@ You should follow this load order for this to work:
      <tr>
     <td>
       <a href="https://modrinth.com/mod/lets-do-candlelight-farmcharm-compat">
-        <img src="https://cdn.modrinth.com/data/qwbArkQk/162251c6c3411a00c2b9dbeaec099fcf4db4bc6d_96.webp" width="32">
+        <img src="https://cdn.modrinth.com/data/qwbArkQk/5e0770c8da0fab82a70bc9c3913c8d3996c53345_96.webp" width="32">
       </a>
     </td>
     <td>
@@ -290,7 +300,7 @@ You should follow this load order for this to work:
    <tr>
     <td>
       <a href="https://modrinth.com/mod/lets-do-brewery">
-        <img src="https://cdn.modrinth.com/data/cV5LQXKx/4786b25ca8a46d1a2a500668c030b93c87518e86_96.webp" width="32">
+        <img src="https://cdn.modrinth.com/data/cV5LQXKx/2032ccfc1880523377a381c798a2a2d582ece753_96.webp" width="32">
       </a>
     </td>
     <td>
@@ -300,7 +310,7 @@ You should follow this load order for this to work:
    <tr>
     <td>
       <a href="https://modrinth.com/mod/lets-do-brewery-farmcharm-compat">
-        <img src="https://cdn.modrinth.com/data/b7NV2plI/a45854bcbfe831c981646bb87caf2c32ceb2c8be_96.webp" width="32">
+        <img src="https://cdn.modrinth.com/data/b7NV2plI/f254a05a63fabc3c3648618812301a5ffb37eed9_96.webp" width="32">
       </a>
     </td>
     <td>
@@ -310,7 +320,7 @@ You should follow this load order for this to work:
     <tr>
     <td>
       <a href="https://modrinth.com/mod/lets-do-vinery">
-        <img src="https://cdn.modrinth.com/data/1DWmBJVA/15cf24557d40701ce68df224b50115771f953806_96.webp" width="32">
+        <img src="https://cdn.modrinth.com/data/1DWmBJVA/029aec55be4d860ba0aede4939dd93332b6dafad_96.webp" width="32">
       </a>
     </td>
     <td>
@@ -320,7 +330,7 @@ You should follow this load order for this to work:
      <tr>
     <td>
       <a href="https://modrinth.com/mod/lets-do-herbalbrews">
-        <img src="https://cdn.modrinth.com/data/Eh11TaTm/ce6e5983ec643caf12ac93bbd82eab7706b4df51_96.webp" width="32">
+        <img src="https://cdn.modrinth.com/data/Eh11TaTm/cea48ad39e9323e9e0f5354ee1d4c160f46b50be_96.webp" width="32">
       </a>
     </td>
     <td>
@@ -330,7 +340,7 @@ You should follow this load order for this to work:
      <tr>
     <td>
       <a href="https://modrinth.com/mod/lets-do-beachparty">
-        <img src="https://cdn.modrinth.com/data/GyKzAh3l/c83f94cf3514d4895f4f975b64ef417994dcecd5_96.webp" width="32">
+        <img src="https://cdn.modrinth.com/data/GyKzAh3l/41b9b45c365ecd55aced04bcd22af93878f766a0_96.webp" width="32">
       </a>
     </td>
     <td>
@@ -340,7 +350,7 @@ You should follow this load order for this to work:
      <tr>
     <td>
       <a href="https://modrinth.com/mod/lets-do-farm-charm">
-        <img src="https://cdn.modrinth.com/data/HJetCzWo/219e522e8504de65a8df8f691c4e0b08f77dd90f_96.webp" width="32">
+        <img src="https://cdn.modrinth.com/data/HJetCzWo/7c6c372629b3efa41409621631d60df12963f005_96.webp" width="32">
       </a>
     </td>
     <td>
@@ -350,7 +360,7 @@ You should follow this load order for this to work:
      <tr>
     <td>
       <a href="https://modrinth.com/mod/lets-do-meadow">
-        <img src="https://cdn.modrinth.com/data/ra7o6Sl7/9e8d12c04f972e53f88d5e254880db024537f399_96.webp" width="32">
+        <img src="https://cdn.modrinth.com/data/ra7o6Sl7/d7e6f6bcaa82b9af4a670e6dd6cb980c970aa0f2_96.webp" width="32">
       </a>
     </td>
     <td>
@@ -360,7 +370,7 @@ You should follow this load order for this to work:
      <tr>
     <td>
       <a href="https://modrinth.com/mod/lets-do-camping">
-        <img src="https://cdn.modrinth.com/data/uJXTNuf0/227cd60faccde49bd71d6567096b1807be6eb11e.png" width="32">
+        <img src="https://cdn.modrinth.com/data/uJXTNuf0/488f5bdd3d1876d27f2d8c5e7ac5f84465d148c6_96.webp" width="32">
       </a>
     </td>
     <td>
@@ -370,7 +380,7 @@ You should follow this load order for this to work:
      <tr>
     <td>
       <a href="https://modrinth.com/mod/lets-do-lilis-lucky-lures">
-        <img src="https://cdn.modrinth.com/data/DMDVFZSF/fde6b9eeb85e761820ab7daac05be97892d0755e_96.webp" width="32">
+        <img src="https://cdn.modrinth.com/data/DMDVFZSF/6a089f4331180dabc1d889c86363283dc19f6634_96.webp" width="32">
       </a>
     </td>
     <td>
@@ -380,7 +390,7 @@ You should follow this load order for this to work:
      <tr>
     <td>
       <a href="https://modrinth.com/mod/lets-do-wildernature">
-        <img src="https://cdn.modrinth.com/data/AAiRU4aQ/067e622f2069bc36676f4067b053c31d67655daf_96.webp" width="32">
+        <img src="https://cdn.modrinth.com/data/AAiRU4aQ/238d9fac3b88c786d72cbabe3921c68795075394_96.webp" width="32">
       </a>
     </td>
     <td>
@@ -584,6 +594,16 @@ You should follow this load order for this to work:
     </td>
     <td>
       <b><a href="https://modrinth.com/mod/ends-phantasm">End's Phantasm</a></b>
+    </td>
+   </tr>
+    <tr>
+    <td>
+      <a href="https://modrinth.com/mod/vinurl">
+        <img src="https://cdn.modrinth.com/data/5PsMUIsq/bffa8784b1a2acc4783577d7e1dde5d06cada131_96.webp" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/vinurl">VinURL</a></b>
     </td>
    </tr>
    <tr>
@@ -899,7 +919,7 @@ You should follow this load order for this to work:
    <tr>
     <td>
       <a href="https://modrinth.com/mod/aether">
-        <img src="https://cdn.modrinth.com/data/YhmgMVyu/62975a496c6664dff0ac47994f02545cd109e2a9_96.webp" width="32">
+        <img src="https://cdn.modrinth.com/data/YhmgMVyu/f76fada67156fdeab0974f5f791f936be524d5d3_96.webp" width="32">
       </a>
     </td>
     <td>
@@ -1224,6 +1244,136 @@ You should follow this load order for this to work:
     </td>
     <td>
       <b><a href="https://modrinth.com/mod/boss-checklist">Boss Checklist</a></b>
+    </td>
+  </tr>
+   <tr>
+    <td>
+      <a href="https://modrinth.com/mod/owo-lib">
+        <img src="https://cdn.modrinth.com/data/ccKDOlHs/42c9fe358c72dd5afda078271c574c325e963d19_96.webp" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/owo-lib">oωo (owo-lib)</a></b>
+    </td>
+  </tr>
+   <tr>
+    <td>
+      <a href="https://modrinth.com/mod/whats-that-slot">
+        <img src="https://cdn.modrinth.com/data/7b5VoITI/icon.png" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/whats-that-slot">What's That Slot?</a></b>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://modrinth.com/mod/bee-gui">
+        <img src="https://cdn.modrinth.com/data/tFQApVFs/c060b104732b87a6a2a87cc27d02a17efcbcb324_96.webp" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/bee-gui">Bee GUI</a></b>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://modrinth.com/mod/repair-station">
+        <img src="https://cdn.modrinth.com/data/nQDTdmTz/aea8f991687935737c86b104cbf901c0607aafb0.png" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/repair-station">Repair Station</a></b>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://modrinth.com/mod/penchant">
+        <img src="https://cdn.modrinth.com/data/BTORUTmf/634b02e620c7c43704856387010222d7a9c40d37.png" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/penchant">Penchant</a></b>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://modrinth.com/mod/levelz">
+        <img src="https://cdn.modrinth.com/data/EFtixeiF/568c023b2508eacbaebed7dfe877e2e088d889b7_96.webp" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/levelz">LevelZ</a></b>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://modrinth.com/mod/jobsaddon">
+        <img src="https://cdn.modrinth.com/data/whv2X0ei/b55cc9fe00879d9004d07d9bba3f30071de5835f.png" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/jobsaddon">JobsAddon</a></b>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://modrinth.com/mod/libz">
+        <img src="https://cdn.modrinth.com/data/yUBXc3AH/2121bb47e5d1be3959ba3fcca1e65a8dd92cba1a_96.webp" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/libz">LibZ</a></b>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://modrinth.com/mod/immersive-aircraft">
+        <img src="https://cdn.modrinth.com/data/x3HZvrj6/08205d73c1e3e28eae9c4c6e272eaae34326e4b0_96.webp" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/immersive-aircraft">Immersive Aircraft</a></b>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="modrinth.com/mod/item-highlighter">
+        <img src="https://cdn.modrinth.com/data/cVNW5lr6/5e15f8c53ea36ca5391cdd9bbdea33261fa4c18d_96.webp" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="modrinth.com/mod/item-highlighter">Item Highlighter</a></b>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://modrinth.com/mod/useful-lanterns">
+        <img src="https://cdn.modrinth.com/data/6WmkI00Y/821ff9e676ececff41744df544361fd07225d2bc_96.webp" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/useful-lanterns">Useful Lanterns</a></b>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://modrinth.com/mod/horseshoes">
+        <img src="https://cdn.modrinth.com/data/tyg1IZwj/0ee3958622bb2489d5e3bf29ac397619026ac739.png" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/horseshoes">Horseshoes</a></b>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://modrinth.com/mod/immersive-enchanting">
+        <img src="https://cdn.modrinth.com/data/DfWQAvS4/f3d191989f7a93fa205d866a0807939466d9758e_96.webp" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/immersive-enchanting">Immersive Enchanting</a></b>
     </td>
   </tr>
   </table>
