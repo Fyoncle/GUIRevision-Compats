@@ -507,6 +507,16 @@ You should follow this load order for this to work:
       <b><a href="https://modrinth.com/mod/fabric-api">Fabric API</a></b>
     </td>
    </tr>
+     <tr>
+    <td>
+      <a href="https://modrinth.com/mod/appleskin">
+        <img src="https://cdn.modrinth.com/data/EsAfCjCV/icon.png" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/appleskin">AppleSkin</a></b>
+    </td>
+   </tr>
     <tr>
     <td>
       <a href="https://modrinth.com/mod/sortilege">
@@ -644,16 +654,6 @@ You should follow this load order for this to work:
     </td>
     <td>
       <b><a href="https://modrinth.com/mod/no-chat-reports">No Chat Reports</a></b>
-    </td>
-   </tr>
-     <tr>
-    <td>
-      <a href="https://modrinth.com/mod/extrasoundsforge">
-        <img src="https://cdn.modrinth.com/data/jv7tzVE4/aac60640bfd4a44890f075aea150fac41e698da4_96.webp" width="32">
-      </a>
-    </td>
-    <td>
-      <b><a href="https://modrinth.com/mod/extrasoundsforge">ExtraSounds Next</a></b>
     </td>
    </tr>
       <tr>
@@ -1099,7 +1099,7 @@ You should follow this load order for this to work:
    <tr>
     <td>
       <a href="https://modrinth.com/mod/archeologicalmod">
-        <img src="https://cdn.modrinth.com/data/z24qKJXQ/39867ee8d164fd37e068cf5f49967056d40a142c_96.webp" width="32">
+        <img src="https://cdn.modrinth.com/data/z24qKJXQ/9f2439ac60f6b058e6f1177cf343f33159d525a6_96.webp" width="32">
       </a>
     </td>
     <td>
