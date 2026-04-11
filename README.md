@@ -1,36 +1,28 @@
-## This resourcepack adds [GUI Revision](https://modrinth.com/resourcepack/gui-revision) compatibility to mods!
-
 <div align="center">
+
+## This resourcepack adds [GUI Revision](https://modrinth.com/resourcepack/gui-revision) compatibility to mods!
 
 <a href="https://modrinth.com/modpack/elysium-days" target="_blank" rel="noopener noreferrer">
   <img src="https://wsrv.nl/?url=https://raw.githubusercontent.com/Fyoncle/Elysium-Days/ae9136ed921e408ba768262fb8afb24d9ad47d94/ed_vector.svg" alt="As seen in Elysium Days">
 </a>
 
-</div>
-
 #
-
-<img src="https://raw.githubusercontent.com/Mqxx/GitHub-Markdown/1fd12c475756b54e467799d98eca7b406f109341/blockquotes/badge/dark-theme/info.svg" width="100">
-
-You should follow this load order for this to work:  
-![LoadOrder](https://cdn.modrinth.com/data/cached_images/2a446ad5a4db94b517f1c123f36363799def91c0.png)
-
----
 
 <details>
 <summary>🔎 F.A.Q</summary>
 
-- **Q: How do I fix container names overlapping with GUI Revision on languages other than EN_US?**
-  - **A:** You need to install [No Container Labels](https://modrinth.com/mod/no-container-labels)!
+**Q: How do I fix container names overlapping with GUI Revision on languages other than EN_US?**  
+**A:** You need to install [No Container Labels](https://modrinth.com/mod/no-container-labels)!
 
 #
 
-- **Q: Are you planning to add mod compatibility for GUI Revision Dark?**
-  - **A:** No, I don't. There is already plenty out there like [More Modded GUI Revision Dark](https://modrinth.com/resourcepack/more-modded-gui-revision-dark)
+**Q: Are you planning to add mod compatibility for GUI Revision Dark?**  
+**A:** No, I don't. There is already plenty out there, like [More Modded GUI Revision Dark](https://modrinth.com/resourcepack/more-modded-gui-revision-dark).
 
 </details>
+</div>
 
----
+#
 
 ### Compatibility List:
 
@@ -520,7 +512,7 @@ You should follow this load order for this to work:
     <tr>
     <td>
       <a href="https://modrinth.com/mod/sortilege">
-        <img src="https://cdn.modrinth.com/data/GyVUSbid/5bf1f36f784b5b1f32ed6d7dc9d81c94f16f305e_96.webp" width="32">
+        <img src="https://cdn.modrinth.com/data/GyVUSbid/9e87b1289a29e2d166ef6b5cbe6a2a577e36abf4_96.webp" width="32">
       </a>
     </td>
     <td>
@@ -966,6 +958,16 @@ You should follow this load order for this to work:
       <b><a href="https://modrinth.com/mod/niftycarts">NiftyCarts</a></b>
      </td>
     </tr>
+   <tr>
+    <td>
+      <a href="https://modrinth.com/mod/astikorcarts-redux">
+        <img src="https://cdn.modrinth.com/data/mnLFouB0/c15c447a322114eab118ab4c2f7a26721734e30d.png" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/astikorcarts-redux">AstikorCarts Redux</a></b>
+     </td>
+    </tr>
      <tr>
    <td>
       <a href="https://modrinth.com/mod/animal_feeding_trough">
@@ -1004,6 +1006,16 @@ You should follow this load order for this to work:
     </td>
     <td>
       <b><a href="https://modrinth.com/mod/easy-anvils">Easy Anvils</a></b>
+    </td>
+  </tr>
+      <tr>
+    <td>
+      <a href="https://modrinth.com/mod/ironchests">
+        <img src="https://cdn.modrinth.com/data/n2de3t2z/6a17c192e399211a9a0b5c31ec75f5fc073ca7b6.png" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/ironchests">Iron Chests: Restocked</a></b>
     </td>
   </tr>
       <tr>
@@ -1374,6 +1386,16 @@ You should follow this load order for this to work:
     </td>
     <td>
       <b><a href="https://modrinth.com/mod/immersive-enchanting">Immersive Enchanting</a></b>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://modrinth.com/mod/terramity">
+        <img src="https://cdn.modrinth.com/data/RHN9OPTT/eaecdcfe4633e4bf05bc1f3a69bc625de795c585_96.webp" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/terramity">Terramity</a></b>
     </td>
   </tr>
   </table>
