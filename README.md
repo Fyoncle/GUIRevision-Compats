@@ -644,6 +644,16 @@
    </tr>
    <tr>
     <td>
+      <a href="https://modrinth.com/mod/field-guide">
+        <img src="https://cdn.modrinth.com/data/72RRCWM6/aff8f944a75aecb78ae9324be9d6880049cf026e.png" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/field-guide">Field Guide</a></b>
+    </td>
+   </tr>
+   <tr>
+    <td>
       <a href="https://modrinth.com/mod/reliable-advancements">
         <img src="https://cdn.modrinth.com/data/xVwaUG1g/f12af64d7ec460bf6024e44504b007333e237d8c.png" width="32">
       </a>
@@ -1490,6 +1500,16 @@
     </td>
     <td>
       <b><a href="https://modrinth.com/mod/overgeared">Overgeared</a></b>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://modrinth.com/mod/combat-roll">
+        <img src="https://cdn.modrinth.com/data/wGKYL7st/0958df960eca663066fa1cd821e75ff9c44ab716_96.webp" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/combat-roll">Combat Roll</a></b>
     </td>
   </tr>
   </table>
