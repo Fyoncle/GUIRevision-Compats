@@ -1,0 +1,38 @@
+name: Publish GUI Revision Compats
+
+on:
+  release:
+    types: [published]
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Build Resourcepack
+        run: |
+          zip -r GUI_Revision_Compats.zip assets overlay_34 pack.mcmeta pack.png
+
+      - name: Publish to Modrinth & CurseForge
+        uses: Kir-Antipov/mc-publish@v3.3
+        with:
+          modrinth-id: STMnY6ly
+          modrinth-token: ${{ secrets.MODRINTH_TOKEN }}
+
+          curseforge-id: 1577426
+          curseforge-token: ${{ secrets.CURSEFORGE_TOKEN }}
+
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+
+          files: GUI_Revision_Compats.zip
+          name: ${{ github.event.release.name }}
+          version: ${{ github.event.release.tag_name }}
+          version-type: release
+          changelog: ${{ github.event.release.body }}
+
+          loaders: minecraft
+          game-versions: |
+            [1.20.1,26.2]
+          game-version-filter: none
