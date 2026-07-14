@@ -38,4 +38,4 @@ jobs:
           game-version-filter: none
 
           dependencies: |
-          orgtdk9U(required)
+            orgtdk9U(required)
