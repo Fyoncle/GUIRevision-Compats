@@ -1,0 +1,1503 @@
+### Compatibility List:
+
+**Trinket Mods:**
+
+<table>
+  <tr>
+    <td>
+      <a href="https://modrinth.com/mod/trinkets">
+        <img src="https://cdn.modrinth.com/data/5aaWibi9/icon.png" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/trinkets">Trinkets</a></b>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://modrinth.com/mod/curios">
+        <img src="https://cdn.modrinth.com/data/vvuO3ImH/2a7323ca80849de0bcb50299e18acdf8bf394682.png" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/curios">Curios API</a></b>
+    </td>
+  </tr>
+    <tr>
+    <td>
+      <a href="https://modrinth.com/mod/accessories">
+        <img src="https://cdn.modrinth.com/data/jtmvUHXj/14fabf4859e845b0bd6659daf2375be3e88f59ec.png" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/accessories">Accessories</a></b>
+    </td>
+  </tr>
+  </table>
+
+**Recipe Viewers:**
+
+   <table>
+   <tr>
+    <td>
+      <a href="https://modrinth.com/mod/emi">
+        <img src="https://cdn.modrinth.com/data/fRiHVvU7/395fe5302b2bab612ef0623509f768f3c5a5ee0f.webp" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/emi">EMI</a></b>
+    </td>
+  </tr>
+   <tr>
+    <td>
+      <a href="https://modrinth.com/mod/emi-plus-backport">
+        <img src="https://cdn.modrinth.com/data/N9WucjHL/a0b60f7097f83fd95debc25e205fd7995e4c86a2.png" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/emi-plus-backport">EMI++ Forked</a></b>
+    </td>
+  </tr>
+   <tr>
+    <td>
+      <a href="https://modrinth.com/mod/rei">
+        <img src="https://cdn.modrinth.com/data/nfn13YXA/54ac5daa4166011bae713448e84413987316433a_96.webp" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/rei">Roughly Enough Items</a></b>
+    </td>
+  </tr>
+     <tr>
+    <td>
+      <a href="https://modrinth.com/mod/jei">
+        <img src="https://cdn.modrinth.com/data/u6dRKJwZ/4a3f18ac0d096c9f8e9176984c44be4e58f94c89_96.webp" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/jei">Just Enough Items</a></b>
+    </td>
+  </tr>
+     <tr>
+    <td>
+      <a href="https://modrinth.com/mod/rrv">
+        <img src="https://cdn.modrinth.com/data/5VolwT6c/c91c6519e275d9eeedd7e2cd5de7b253229942e6.webp" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/rrv">Reliable Recipe Viewer</a></b>
+    </td>
+  </tr>
+     <tr>
+    <td>
+      <a href="https://modrinth.com/mod/justenoughbreeding">
+        <img src="https://cdn.modrinth.com/data/9Pk89J3g/86043395c6a9e34380d3604e0c9cbbebc23b0b7a.png" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/justenoughbreeding">Just Enough Breeding (JEBr)</a></b>
+    </td>
+  </tr>
+  </table>
+
+**Sorting:**
+
+   <table>
+   <tr>
+    <td>
+      <a href="https://modrinth.com/mod/inventory-profiles-next">
+        <img src="https://cdn.modrinth.com/data/O7RBXm3n/04cdecd37b4c7409f70d36fcdc85722ebf14aab8_96.webp" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/inventory-profiles-next">Inventory Profiles Next</a></b>
+    </td>
+  </tr>
+     <tr>
+    <td>
+      <a href="https://modrinth.com/mod/inventory-management">
+        <img src="https://cdn.modrinth.com/data/F7wXag4i/952573630299e4f7b3a5458a1cde25d8d52f5cb1_96.webp" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/inventory-management">Inventory Management</a></b>
+    </td>
+  </tr>
+     <tr>
+    <td>
+      <a href="https://www.curseforge.com/minecraft/mc-mods/inventory-management-deluxe">
+        <img src="https://media.forgecdn.net/avatars/thumbnails/1328/19/64/64/638863167333127353.png" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://www.curseforge.com/minecraft/mc-mods/inventory-management-deluxe">Inventory Management Deluxe</a></b>
+    </td>
+  </tr>
+     <tr>
+    <td>
+      <a href="https://modrinth.com/mod/inventory-sorting">
+        <img src="https://cdn.modrinth.com/data/5ibSyLAz/cb998de47289a6b0f4022106088870be27d3d5e2.png" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/inventory-sorting">Inventory Sorting</a></b>
+    </td>
+  </tr>
+   <tr>
+    <td>
+      <a href="https://modrinth.com/mod/copper-hopper">
+        <img src="https://cdn.modrinth.com/data/mTI5Xg5F/icon.png" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/copper-hopper">Copper Hopper</a></b>
+    </td>
+  </tr>
+   <tr>
+    <td>
+      <a href="https://modrinth.com/mod/toms-storage">
+        <img src="https://cdn.modrinth.com/data/XZNI4Cpy/1949d7adbf962ac86912608edfb93fa5342bffd6_96.webp" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/toms-storage">Tom's Simple Storage Mod</a></b>
+    </td>
+  </tr>
+  </table>
+
+**Backpack Mods:**
+
+  <table>
+      <tr>
+     <td>
+      <a href="https://modrinth.com/mod/inmis">
+        <img src="https://cdn.modrinth.com/data/I0UYcPa0/af80dbe3a46208d0d761c72634dd901e5a46f2c6_96.webp" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/inmis">Inmis</a></b>
+    </td>
+  </tr>
+     <tr>
+    <td>
+      <a href="https://modrinth.com/mod/travelersbackpack">
+        <img src="https://cdn.modrinth.com/data/rlloIFEV/271b2133a315ee3d864ea5a429472f0e71591fe3_96.webp" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/travelersbackpack">Traveler's Backpack</a></b>
+    </td>
+    </tr>
+   <tr>
+    <td>
+      <a href="https://modrinth.com/mod/sophisticated-backpacks">
+        <img src="https://cdn.modrinth.com/data/TyCTlI4b/e31c7e2f8769d317339e25b2a8d1b40fbf312729_96.webp" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/sophisticated-backpacks">Sophisticated Backpacks</a></b>
+    </td>
+  </tr>
+     <tr>
+    <td>
+      <a href="https://www.curseforge.com/minecraft/mc-mods/backpacked">
+        <img src="https://media.forgecdn.net/avatars/thumbnails/477/479/64/64/637772195243234104_animated.gif" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://www.curseforge.com/minecraft/mc-mods/backpacked">Backpacked</a></b>
+    </td>
+  </tr>
+     <tr>
+    <td>
+      <a href="https://modrinth.com/mod/yyzs-backpack">
+        <img src="https://cdn.modrinth.com/data/zO7tsTJN/7a95b52ed995596496115bd97441f10fb7f79019_96.webp" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/yyzs-backpack">yyz's backpack</a></b>
+    </td>
+  </tr>
+     <tr>
+    <td>
+      <a href="https://modrinth.com/mod/scout">
+        <img src="https://cdn.modrinth.com/data/QRYqnI15/icon.png" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/scout">Scout</a></b>
+    </td>
+  </tr>
+     <tr>
+    <td>
+      <a href="https://modrinth.com/mod/utility-belt">
+        <img src="https://cdn.modrinth.com/data/9ewe2JHJ/16d85fa2922b810aa2c1e0950546456eb6e1ea2b_96.webp" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/utility-belt">Utility Belt</a></b>
+    </td>
+  </tr>
+  </table>
+
+**Let's Do Series:**
+
+ <table>
+   <tr>
+    <td>
+      <a href="https://modrinth.com/mod/lets-do-bakery">
+        <img src="https://cdn.modrinth.com/data/WFwYiVoG/b51e5475e9af4cd585a6b08e86c3b59109eb3482_96.webp" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/lets-do-bakery">Legacy: [Let's Do] Bakery</a></b>
+    </td>
+  </tr>
+     <tr>
+    <td>
+      <a href="https://modrinth.com/mod/lets-do-bakery-farmcharm-compat">
+        <img src="https://cdn.modrinth.com/data/oNB5jhlA/263380c2138f7f28f37639b719cc391334cbb7d5_96.webp" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/lets-do-bakery-farmcharm-compat">[Let's Do] Bakery - Farm&Charm Compat</a></b>
+    </td>
+  </tr>
+     <tr>
+    <td>
+      <a href="https://modrinth.com/mod/lets-do-candlelight">
+        <img src="https://cdn.modrinth.com/data/mPND0Adp/462abac625891cd5e9cdec5fd4e11b160a4474ac_96.webp" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/lets-do-candlelight">Legacy: [Let's Do] Candlelight</a></b>
+    </td>
+  </tr>
+     <tr>
+    <td>
+      <a href="https://modrinth.com/mod/lets-do-candlelight-farmcharm-compat">
+        <img src="https://cdn.modrinth.com/data/qwbArkQk/5e0770c8da0fab82a70bc9c3913c8d3996c53345_96.webp" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/lets-do-candlelight-farmcharm-compat">[Let's Do] Candlelight - Farm&Charm compat</a></b>
+    </td>
+  </tr>
+   <tr>
+    <td>
+      <a href="https://modrinth.com/mod/lets-do-brewery">
+        <img src="https://cdn.modrinth.com/data/cV5LQXKx/2032ccfc1880523377a381c798a2a2d582ece753_96.webp" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/lets-do-brewery">Legacy: [Let's Do] Brewery</a></b>
+    </td>
+  </tr>
+   <tr>
+    <td>
+      <a href="https://modrinth.com/mod/lets-do-brewery-farmcharm-compat">
+        <img src="https://cdn.modrinth.com/data/b7NV2plI/f254a05a63fabc3c3648618812301a5ffb37eed9_96.webp" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/lets-do-brewery-farmcharm-compat">[Let's Do] Brewery - Farm&Charm Compat</a></b>
+    </td>
+  </tr>
+    <tr>
+    <td>
+      <a href="https://modrinth.com/mod/lets-do-vinery">
+        <img src="https://cdn.modrinth.com/data/1DWmBJVA/029aec55be4d860ba0aede4939dd93332b6dafad_96.webp" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/lets-do-vinery">[Let's Do] Vinery</a></b>
+    </td>
+  </tr>
+     <tr>
+    <td>
+      <a href="https://modrinth.com/mod/lets-do-herbalbrews">
+        <img src="https://cdn.modrinth.com/data/Eh11TaTm/cea48ad39e9323e9e0f5354ee1d4c160f46b50be_96.webp" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/lets-do-herbalbrews">[Let's Do] HerbalBrews</a></b>
+    </td>
+  </tr>
+     <tr>
+    <td>
+      <a href="https://modrinth.com/mod/lets-do-beachparty">
+        <img src="https://cdn.modrinth.com/data/GyKzAh3l/41b9b45c365ecd55aced04bcd22af93878f766a0_96.webp" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/lets-do-beachparty">[Let's Do] Beachparty</a></b>
+    </td>
+  </tr>
+     <tr>
+    <td>
+      <a href="https://modrinth.com/mod/lets-do-farm-charm">
+        <img src="https://cdn.modrinth.com/data/HJetCzWo/7c6c372629b3efa41409621631d60df12963f005_96.webp" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/lets-do-farm-charm">[Let's Do] Farm & Charm</a></b>
+    </td>
+  </tr>
+     <tr>
+    <td>
+      <a href="https://modrinth.com/mod/lets-do-meadow">
+        <img src="https://cdn.modrinth.com/data/ra7o6Sl7/d7e6f6bcaa82b9af4a670e6dd6cb980c970aa0f2_96.webp" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/lets-do-meadow">[Let's Do] Meadow</a></b>
+    </td>
+  </tr>
+     <tr>
+    <td>
+      <a href="https://modrinth.com/mod/lets-do-camping">
+        <img src="https://cdn.modrinth.com/data/uJXTNuf0/488f5bdd3d1876d27f2d8c5e7ac5f84465d148c6_96.webp" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/lets-do-camping">[Let's Do] Camping</a></b>
+    </td>
+  </tr>
+     <tr>
+    <td>
+      <a href="https://modrinth.com/mod/lets-do-lilis-lucky-lures">
+        <img src="https://cdn.modrinth.com/data/DMDVFZSF/6a089f4331180dabc1d889c86363283dc19f6634_96.webp" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/lets-do-lilis-lucky-lures">[Let's Do] Lili's Lucky Lures</a></b>
+    </td>
+  </tr>
+     <tr>
+    <td>
+      <a href="https://modrinth.com/mod/lets-do-wildernature">
+        <img src="https://cdn.modrinth.com/data/AAiRU4aQ/238d9fac3b88c786d72cbabe3921c68795075394_96.webp" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/lets-do-wildernature">[Let's Do] WilderNature</a></b>
+    </td>
+  </tr>
+ </table>
+
+**Farmer's Delight Series:**
+
+   <table>
+    <tr>
+    <td>
+      <a href="https://modrinth.com/mod/farmers-delight">
+        <img src="https://cdn.modrinth.com/data/R2OftAxM/8e7aa38ab94d94bb0a2894a218b69beb49002b34.png" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/farmers-delight">Farmer's Delight</a></b>
+    </td>
+  </tr>
+       <tr>
+    <td>
+      <a href="https://modrinth.com/mod/farmers-delight-refabricated">
+        <img src="https://cdn.modrinth.com/data/7vxePowz/26e8448993e9bda4dba92b6e7a1a13d9c4333138.png" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/farmers-delight-refabricated">Farmer's Delight Refabricated</a></b>
+    </td>
+  </tr>
+   <tr>
+    <td>
+      <a href="https://modrinth.com/mod/farmers-delight-fabric">
+        <img src="https://cdn.modrinth.com/data/4EakbH8e/icon.png" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/farmers-delight-fabric">[Deprecated] Farmer's Delight [Fabric]</a></b>
+    </td>
+  </tr>
+   <tr>
+    <td>
+      <a href="https://modrinth.com/mod/brewin-and-chewin">
+        <img src="https://cdn.modrinth.com/data/hIu9KJTT/f7c591a80046859d3d45c04ecbbc54d264483d5e.png" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/brewin-and-chewin">Brewin' And Chewin'</a></b>
+    </td>
+  </tr>
+   <tr>
+    <td>
+      <a href="https://www.curseforge.com/minecraft/mc-mods/farmers-respite">
+        <img src="https://media.forgecdn.net/avatars/thumbnails/460/721/64/64/637739148850316506.png" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://www.curseforge.com/minecraft/mc-mods/farmers-respite">Farmer's Respite</a></b>
+    </td>
+  </tr>
+   <tr>
+    <td>
+      <a href="https://modrinth.com/mod/vintage-delight">
+        <img src="https://cdn.modrinth.com/data/T7XZLHGD/c16e41dfab547d38893425286ef80c4b6ea768d3.png" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/vintage-delight">Vintage Delight</a></b>
+    </td>
+  </tr>
+   <tr>
+    <td>
+      <a href="https://modrinth.com/mod/hearth-and-harvest">
+        <img src="https://cdn.modrinth.com/data/8EEEXOzj/0910201ffdd04d5b8485b6cf2b0417a0c372286b.png" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/hearth-and-harvest">Hearth and Harvest</a></b>
+    </td>
+  </tr>
+   <tr>
+    <td>
+      <a href="https://modrinth.com/mod/crabbers-delight">
+        <img src="https://cdn.modrinth.com/data/gBGdVBJy/dda9137ec6e5a1abccbf921e100c20dcfa5cba2d.png" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/crabbers-delight">Crabber's Delight</a></b>
+    </td>
+  </tr>
+   <tr>
+    <td>
+      <a href="https://modrinth.com/mod/frycooks-delight">
+        <img src="https://cdn.modrinth.com/data/Kbl6BTg5/8ccb96b404499e52c208e5ee0b36cff7c3ec7ce7.png" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/frycooks-delight">Frycook's Delight</a></b>
+    </td>
+  </tr>
+</table>
+
+**Other Mods:**
+
+  <table>
+     <tr>
+    <td>
+      <a href="https://modrinth.com/mod/fabric-api">
+        <img src="https://cdn.modrinth.com/data/P7dR8mSH/icon.png" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/fabric-api">Fabric API</a></b>
+    </td>
+   </tr>
+     <tr>
+    <td>
+      <a href="https://modrinth.com/mod/appleskin">
+        <img src="https://cdn.modrinth.com/data/EsAfCjCV/icon.png" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/appleskin">AppleSkin</a></b>
+    </td>
+   </tr>
+    <tr>
+    <td>
+      <a href="https://modrinth.com/mod/sortilege">
+        <img src="https://cdn.modrinth.com/data/GyVUSbid/9e87b1289a29e2d166ef6b5cbe6a2a577e36abf4_96.webp" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/sortilege">Sortilege</a></b>
+    </td>
+   </tr>
+    <tr>
+    <td>
+      <a href="https://modrinth.com/mod/tide">
+        <img src="https://cdn.modrinth.com/data/die1AF7i/092d1c739b014b6e6480188addb762c30c63f20a_96.webp" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/tide">Tide 2</a></b>
+    </td>
+   </tr>
+    <tr>
+     <td>
+      <a href="https://modrinth.com/mod/starcatcher">
+        <img src="https://cdn.modrinth.com/data/h2jXvxNR/71c75fa1fb2fbd0c7d3ed6e17d6b8b96bb2810b2.png" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/starcatcher">Starcatcher</a></b>
+     </td>
+   </tr>
+    <tr>
+    <td>
+      <a href="https://modrinth.com/mod/aquaculture">
+        <img src="https://cdn.modrinth.com/data/Vl1uNAuy/87cba3f170e925af5e1f1af22c27dfc891409ae7.png" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/aquaculture">Aquaculture 2</a></b>
+    </td>
+   </tr>
+    <tr>
+    <td>
+      <a href="https://modrinth.com/mod/fossils-and-archeology-revival">
+        <img src="https://cdn.modrinth.com/data/IJY7IqPP/e1b81d0ad60df48214cec1aba9be70d892b4861c_96.webp" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/fossils-and-archeology-revival">Fossils and Archeology: Revival</a></b>
+    </td>
+   </tr>
+    <tr>
+    <td>
+      <a href="https://modrinth.com/mod/waystones">
+        <img src="https://cdn.modrinth.com/data/LOpKHB2A/d56c030a875582aff5bab477ddcfec317a1610f0_96.webp" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/waystones">Waystones</a></b>
+    </td>
+   </tr>
+   <tr>
+    <td>
+      <a href="https://modrinth.com/mod/fwaystones">
+        <img src="https://cdn.modrinth.com/data/sTZr7NVo/icon.png" width="32">
+      </a>
+    <td>
+      <b><a href="https://modrinth.com/mod/fwaystones">Wraith Waystones</a></b>
+    </td>
+   </tr>
+    <tr>
+    <td>
+      <a href="https://modrinth.com/mod/spell-engine">
+        <img src="https://cdn.modrinth.com/data/XvoWJaA2/9f3d222d82aebadd5325ae53a927463f1e20abd0.png" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/spell-engine">Spell Engine</a></b>
+    </td>
+   </tr>
+    <tr>
+    <td>
+      <a href="https://modrinth.com/mod/relics-rpg">
+        <img src="https://cdn.modrinth.com/data/BDQucwF0/6aac428c17df067875dfff8a37b6f2a3535ea2cc_96.webp" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/relics-rpg">Relics (RPG Series)</a></b>
+    </td>
+   </tr>
+    <tr>
+    <td>
+      <a href="https://modrinth.com/mod/runes">
+        <img src="https://cdn.modrinth.com/data/lP9Yrr1E/d80117583d3b45e7e8d902e3e7e27ef15ee9b4dd_96.webp" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/runes">Runes</a></b>
+    </td>
+   </tr>
+    <tr>
+    <td>
+      <a href="https://modrinth.com/mod/ends-phantasm">
+        <img src="https://cdn.modrinth.com/data/JGfljjtd/87262a2ee2887548c65e32e9462e15178abdcfa9_96.webp" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/ends-phantasm">End's Phantasm</a></b>
+    </td>
+   </tr>
+    <tr>
+    <td>
+      <a href="https://modrinth.com/mod/vinurl">
+        <img src="https://cdn.modrinth.com/data/5PsMUIsq/bffa8784b1a2acc4783577d7e1dde5d06cada131_96.webp" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/vinurl">VinURL</a></b>
+    </td>
+   </tr>
+   <tr>
+    <td>
+      <a href="https://modrinth.com/mod/bettersmithingtable">
+        <img src="https://cdn.modrinth.com/data/Vt8TI045/1caeffd3780a23e493871581e601993db2267af5.png" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/bettersmithingtable">Better Smithing Table</a></b>
+    </td>
+   </tr>
+   <tr>
+    <td>
+      <a href="https://modrinth.com/mod/loom-gui-remastered">
+        <img src="https://cdn.modrinth.com/data/e3dXx9cS/25a21bc8ca91497870b1f2bb21a4e87e4644cf1c_96.webp" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/loom-gui-remastered">Loom GUI Remastered</a></b>
+    </td>
+   </tr>
+   <tr>
+    <td>
+      <a href="https://modrinth.com/mod/reliable-advancements">
+        <img src="https://cdn.modrinth.com/data/xVwaUG1g/f12af64d7ec460bf6024e44504b007333e237d8c.png" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/reliable-advancements">Reliable Advancements</a></b>
+    </td>
+   </tr>
+   <tr>
+    <td>
+      <a href="https://modrinth.com/mod/better-advancements">
+        <img src="https://cdn.modrinth.com/data/Q2OqKxDG/b1519a191e62135647f66394d526d179ab5b598d.png" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/better-advancements">Better Advancements</a></b>
+    </td>
+   </tr>
+    <tr>
+    <td>
+      <a href="https://modrinth.com/mod/paginatedadvancements">
+        <img src="https://cdn.modrinth.com/data/pJogNFap/icon.png" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/paginatedadvancements">Paginated Advancements & Custom Frames</a></b>
+    </td>
+   </tr>
+     <tr>
+    <td>
+      <a href="https://modrinth.com/mod/no-chat-reports">
+        <img src="https://cdn.modrinth.com/data/qQyHxfxd/icon.png" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/no-chat-reports">No Chat Reports</a></b>
+    </td>
+   </tr>
+      <tr>
+    <td>
+      <a href="https://modrinth.com/mod/language-reload">
+        <img src="https://cdn.modrinth.com/data/uLbm7CG6/9cae8ec18cac3b1cc6ef1efa239f381d669264e6.png" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/language-reload">Language Reload</a></b>
+    </td>
+   </tr>
+  <tr>
+    <td>
+      <a href="https://modrinth.com/mod/overflowing-bars">
+        <img src="https://cdn.modrinth.com/data/XD7XOrAF/d90f38fb48581277f61e9f4bb3e1cb8e9ebe47e1_96.webp" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/overflowing-bars">Overflowing Bars</a></b>
+    </td>
+   </tr>
+  <tr>
+    <td>
+      <a href="https://modrinth.com/mod/regions-unexplored">
+        <img src="https://cdn.modrinth.com/data/Tkikq67H/e1e85f8a91f09154c2e822fd9a15e167c0230a31_96.webp" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/regions-unexplored">Regions Unexplored</a></b>
+    </td>
+   </tr>
+  <tr>
+    <td>
+      <a href="https://modrinth.com/mod/naturalist">
+        <img src="https://cdn.modrinth.com/data/F8BQNPWX/06f421b5c96c2002414373f3e23e07063021a370_96.webp" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/naturalist">Naturalist</a></b>
+    </td>
+   </tr>
+  <tr>
+    <td>
+      <a href="https://modrinth.com/mod/hellions-sniffer+">
+        <img src="https://cdn.modrinth.com/data/BVgHoKxg/5536b162999b886888e1559c1786ff308594f29b_96.webp" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/hellions-sniffer+">Hellion's Sniffer+</a></b>
+    </td>
+   </tr>
+  <tr>
+    <td>
+      <a href="https://modrinth.com/mod/numismatic-overhaul">
+        <img src="https://cdn.modrinth.com/data/ZXm8hVxN/icon.png" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/numismatic-overhaul">Numismatic Overhaul</a></b>
+    </td>
+   </tr>
+  <tr>
+    <td>
+      <a href="https://modrinth.com/mod/weaponmaster">
+        <img src="https://cdn.modrinth.com/data/qi1sj2da/b148e3355d9667d21310156d954a4d826e2baf7f_96.webp" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/weaponmaster">YDM's Weapon Master</a></b>
+    </td>
+   </tr>
+  <tr>
+    <td>
+      <a href="https://modrinth.com/mod/cold-sweat">
+        <img src="https://cdn.modrinth.com/data/uXhSmPjd/bf55420556c30d44d2f5cf7b8915705b9214b4ef.png" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/cold-sweat">Cold Sweat</a></b>
+    </td>
+   </tr>
+  <tr>
+    <td>
+      <a href="https://modrinth.com/mod/starter-kit">
+        <img src="https://cdn.modrinth.com/data/6L3ydNi8/946acc868c947e5f3ff7a1c1ccb268d09a14f6e5_96.webp" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/starter-kit">Starter Kit</a></b>
+    </td>
+   </tr>
+    <tr>
+    <td>
+      <a href="https://modrinth.com/mod/vampirism">
+        <img src="https://cdn.modrinth.com/data/jVZ0F1wn/icon.png" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/vampirism">Vampirism</a></b>
+    </td>
+   </tr>
+        <tr>
+    <td>
+      <a href="https://modrinth.com/mod/werewolves">
+        <img src="https://cdn.modrinth.com/data/3ElBohKg/icon.png" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/werewolves">Werewolves</a></b>
+    </td>
+   </tr>
+     <tr>
+    <td>
+      <a href="https://modrinth.com/mod/just-leveling">
+        <img src="https://cdn.modrinth.com/data/EF21YRSP/f04a1208efc92edd6367c5000a0954c1c49959df.png" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/just-leveling">Just Leveling</a></b>
+    </td>
+   </tr>
+    <tr>
+    <td>
+      <a href="https://modrinth.com/mod/irons-spells-n-spellbooks">
+        <img src="https://cdn.modrinth.com/data/s4OWxYQQ/6a1f5c6adb434a6c56c1975af6f4fbde3ba907ff.png" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/irons-spells-n-spellbooks">Iron's Spells 'n Spellbooks</a></b>
+    </td>
+   </tr>
+    <tr>
+    <td>
+      <a href="https://modrinth.com/mod/terra-curio">
+        <img src="https://cdn.modrinth.com/data/cylFY5iL/59524a63b7289af2bd76d3bcb1730a67d00bd871_96.webp" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/terra-curio">Terra Curio</a></b>
+    </td>
+   </tr>
+     <tr>
+    <td>
+      <a href="https://modrinth.com/mod/modmenu">
+        <img src="https://cdn.modrinth.com/data/mOgUt4GM/5a20ed1450a0e1e79a1fe04e61bb4e5878bf1d20.png" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/modmenu">Mod Menu</a></b>
+    </td>
+   </tr>
+    <tr>
+    <td>
+      <a href="https://modrinth.com/mod/iris">
+        <img src="https://cdn.modrinth.com/data/YL57xq9U/18d0e7f076d3d6ed5bedd472b853909aac5da202_96.webp" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/iris">Iris Shaders</a></b>
+    </td>
+   </tr>
+    <tr>
+    <td>
+      <a href="https://modrinth.com/mod/entitytexturefeatures">
+        <img src="https://cdn.modrinth.com/data/BVzZfTc1/af683d206d50b05258d865b0d6e4aa2f2cee12f2_96.webp" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/entitytexturefeatures">[ETF] Entity Texture Features</a></b>
+    </td>
+   </tr>
+    <tr>
+    <td>
+      <a href="https://modrinth.com/mod/enchancement">
+        <img src="https://cdn.modrinth.com/data/6hN1V6wJ/d8173c64e1db27f26325115fc101368b86916751_96.webp" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/enchancement">Enchancement</a></b>
+    </td>
+   </tr>
+    <tr>
+    <td>
+      <a href="https://modrinth.com/mod/enchiridion">
+        <img src="https://cdn.modrinth.com/data/LXagYH7y/bf1b6a6a6e6599f74291265b7860d0697052f213.png" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/enchiridion">Enchiridion</a></b>
+    </td>
+   </tr>
+   <tr>
+    <td>
+      <a href="https://modrinth.com/mod/enchanting-infuser">
+        <img src="https://cdn.modrinth.com/data/ePv85y52/f7e4cfe60875eb1cc36f836dc484a36f58dc1cd3_96.webp" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/enchanting-infuser">Enchanting Infuser</a></b>
+    </td>
+   </tr>
+        <tr>
+    <td>
+      <a href="https://modrinth.com/mod/completionists-index">
+        <img src="https://cdn.modrinth.com/data/iSCGCCV1/e0b7c288a37d3a868a667354a6b874e3283a8ec8_96.webp" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/completionists-index">Completionist's Index</a></b>
+    </td>
+   </tr>
+   <tr>
+    <td>
+      <a href="https://modrinth.com/mod/superb-steeds">
+        <img src="https://cdn.modrinth.com/data/UIZkbR3j/700bc0953179724e0eef33b44b7a22cd424630a5.png" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/superb-steeds">Superb Steeds</a></b>
+    </td>
+   </tr>
+   <tr>
+    <td>
+      <a href="https://modrinth.com/mod/shulkerboxtooltip">
+        <img src="https://cdn.modrinth.com/data/2M01OLQq/bb490716cf2590cf84100a495931c3d4743bce43_96.webp" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/shulkerboxtooltip">Shulker Box Tooltip</a></b>
+    </td>
+  </tr>
+       <tr>
+    <td>
+      <a href="https://modrinth.com/mod/trashslot">
+        <img src="https://cdn.modrinth.com/data/vRYk0bv7/f700e747710e4d485c79617fe993cc53887a3da6.png" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/trashslot">Trash Slot</a></b>
+    </td>
+  </tr>
+     <tr>
+    <td>
+      <a href="https://modrinth.com/mod/trade-cycling">
+        <img src="https://cdn.modrinth.com/data/qpPoAL6m/91dcbfba1d821a7a9248ec8191359d842332cc97.png" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/trade-cycling">Trade Cycling</a></b>
+    </td>
+  </tr>
+     <tr>
+    <td>
+      <a href="https://modrinth.com/mod/exposure">
+        <img src="https://cdn.modrinth.com/data/hB899VmG/58e78eeca0f5185ac349e8d08a3aafdc0a96180d.gif" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/exposure">Exposure</a></b>
+    </td>
+  </tr>
+   <tr>
+    <td>
+      <a href="https://modrinth.com/mod/aether">
+        <img src="https://cdn.modrinth.com/data/YhmgMVyu/f76fada67156fdeab0974f5f791f936be524d5d3_96.webp" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/aether">The Aether</a></b>
+    </td>
+  </tr>
+   <tr>
+    <td>
+      <a href="https://modrinth.com/mod/aether-beyond-parity">
+        <img src="https://cdn.modrinth.com/data/GaNoWOiY/c368790a7cb864a42db063981265945266a8a0e1_96.webp" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/aether-beyond-parity">Aether Addon: Beyond Parity</a></b>
+    </td>
+  </tr>
+   <tr>
+    <td>
+      <a href="https://modrinth.com/mod/aether-protect-your-moa">
+        <img src="https://cdn.modrinth.com/data/6KeEgbxe/7c092cc67621c6721541841071d58919b8dcc817_96.webp" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/aether-protect-your-moa">Aether Addon: Protect Your Moa</a></b>
+    </td>
+  </tr>
+     <tr>
+    <td>
+      <a href="https://modrinth.com/mod/horseman">
+        <img src="https://cdn.modrinth.com/data/qIv5FhAA/7a7cf7848d05a3cb1150a58a3ac5c92a8539c2cd.png" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/horseman">Horse Man</a></b>
+     </td>
+    </tr>
+   <tr>
+    <td>
+      <a href="https://modrinth.com/mod/niftycarts">
+        <img src="https://cdn.modrinth.com/data/CXd6g9xp/b1e963152af2174d420b7b60946205fcdaefd8d7.png" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/niftycarts">NiftyCarts</a></b>
+     </td>
+    </tr>
+   <tr>
+    <td>
+      <a href="https://modrinth.com/mod/astikorcarts-redux">
+        <img src="https://cdn.modrinth.com/data/mnLFouB0/c15c447a322114eab118ab4c2f7a26721734e30d.png" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/astikorcarts-redux">AstikorCarts Redux</a></b>
+     </td>
+    </tr>
+     <tr>
+   <td>
+      <a href="https://modrinth.com/mod/animal_feeding_trough">
+        <img src="https://cdn.modrinth.com/data/bRFWnJ87/1914b673b80b2c6ff8d99e3f047ab3275ad30d2a_96.webp" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/animal_feeding_trough">Animal Feeding Trough</a></b>
+    </td>
+   </tr>
+        <tr>
+   <td>
+      <a href="https://modrinth.com/mod/bountiful">
+        <img src="https://cdn.modrinth.com/data/BpwWFOVM/icon.png" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/bountiful">Bountiful</a></b>
+    </td>
+   </tr>
+       <tr>
+    <td>
+      <a href="https://modrinth.com/mod/easy-magic">
+        <img src="https://cdn.modrinth.com/data/9hx3AbJM/5387d7206ba13438d088d127845d255c1a79b9c2_96.webp" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/easy-magic">Easy Magic</a></b>
+    </td>
+  </tr>
+    <tr>
+    <td>
+      <a href="https://modrinth.com/mod/easy-anvils">
+        <img src="https://cdn.modrinth.com/data/OZBR5JT5/6d18be3377180e9afe80da0551934b29bdd2bacb_96.webp" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/easy-anvils">Easy Anvils</a></b>
+    </td>
+  </tr>
+      <tr>
+    <td>
+      <a href="https://modrinth.com/mod/ironchests">
+        <img src="https://cdn.modrinth.com/data/n2de3t2z/6a17c192e399211a9a0b5c31ec75f5fc073ca7b6.png" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/ironchests">Iron Chests: Restocked</a></b>
+    </td>
+  </tr>
+      <tr>
+    <td>
+      <a href="https://modrinth.com/mod/echo-chest">
+        <img src="https://cdn.modrinth.com/data/m3pkVbY8/b873e18b049ca60825ba62cfde75568e93ff6193_96.webp" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/echo-chest">Echo Chest</a></b>
+    </td>
+  </tr>
+      <tr>
+    <td>
+      <a href="https://modrinth.com/mod/supplementaries">
+        <img src="https://cdn.modrinth.com/data/fFEIiSDQ/e9f5f66fa3b67e54acb91258a1428d68311c58bc_96.webp" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/supplementaries">Supplementaries</a></b>
+    </td>
+  </tr>
+      <tr>
+    <td>
+      <a href="https://modrinth.com/mod/chipped">
+        <img src="https://cdn.modrinth.com/data/BAscRYKm/4faa514b4824672a0877d026bcd5a94bc8aad985_96.webp" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/chipped">Chipped</a></b>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://modrinth.com/mod/tiled">
+        <img src="https://cdn.modrinth.com/data/mp04tH0i/1b567d98cfe6760ba070f34d79c97984ffeaf3c1_96.webp" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/tiled">Tiled</a></b>
+    </td>
+  </tr>
+   <tr>
+    <td>
+      <a href="https://modrinth.com/mod/chatpatches">
+        <img src="https://cdn.modrinth.com/data/MOqt4Z5n/56c954dea290ef4dd1b0d6ea92a811acac62ca85.png" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/chatpatches">Chat Patches</a></b>
+    </td>
+  </tr>
+   <tr>
+    <td>
+      <a href="https://modrinth.com/mod/polymorph">
+        <img src="https://cdn.modrinth.com/data/tagwiZkJ/ed244c5829bde539763c7fffb55cb3194a349d66.png" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/polymorph">Polymorph</a></b>
+    </td>
+  </tr>
+     <tr>
+    <td>
+      <a href="https://modrinth.com/mod/woodworks">
+        <img src="https://cdn.modrinth.com/data/rv1sovni/a4a058dfb559d8cec0c5aea67ced7ebe477ea092_96.webp" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/woodworks">Woodworks</a></b>
+    </td>
+  </tr>
+       <tr>
+    <td>
+      <a href="https://modrinth.com/mod/clayworks">
+        <img src="https://cdn.modrinth.com/data/1iicrEO3/175f6d4d105713cae5ba761def71c579a5ba92f3_96.webp" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/clayworks">Clayworks</a></b>
+    </td>
+  </tr>
+       <tr>
+    <td>
+      <a href="https://modrinth.com/mod/universal-sawmill">
+        <img src="https://cdn.modrinth.com/data/WRaRZdTd/788d1346e7cda9cfca2233473cfa817593d5464f_96.webp" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/universal-sawmill">Sawmill</a></b>
+    </td>
+  </tr>
+   <tr>
+    <td>
+      <a href="https://modrinth.com/mod/better-archeology">
+        <img src="https://cdn.modrinth.com/data/zCh7omyG/6e077f9529b6789aed7696655d8fd84758e1b54e_96.webp" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/better-archeology">Better Archeology</a></b>
+    </td>
+  </tr>
+   <tr>
+    <td>
+      <a href="https://modrinth.com/mod/archeologicalmod">
+        <img src="https://cdn.modrinth.com/data/z24qKJXQ/9f2439ac60f6b058e6f1177cf343f33159d525a6_96.webp" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/archeologicalmod">Archeological</a></b>
+    </td>
+  </tr>
+   <tr>
+    <td>
+      <a href="https://modrinth.com/mod/cosmetic-armor">
+        <img src="https://cdn.modrinth.com/data/JrIYhb1P/icon.png" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/cosmetic-armor">Cosmetic Armor</a></b>
+    </td>
+  </tr>
+   <tr>
+    <td>
+      <a href="https://www.curseforge.com/minecraft/mc-mods/cosmetic-armor-reworked">
+        <img src="https://media.forgecdn.net/avatars/thumbnails/27/600/64/64/635812915333870435.png" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://www.curseforge.com/minecraft/mc-mods/cosmetic-armor-reworked">Cosmetic Armor Reworked</a></b>
+    </td>
+  </tr>
+   <tr>
+    <td>
+      <a href="https://modrinth.com/mod/show-me-your-skin">
+        <img src="https://cdn.modrinth.com/data/bD7YqcA3/icon.png" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/show-me-your-skin">Show Me Your Skin!</a></b>
+    </td>
+  </tr>
+     <tr>
+    <td>
+      <a href="https://modrinth.com/mod/visible-armor-slots">
+        <img src="https://cdn.modrinth.com/data/3ICgdDRt/608d149bc5f841bd363ccbfd12de00156c40ebe9_96.webp" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/visible-armor-slots">Visible Armor Slots</a></b>
+    </td>
+  </tr>
+    <tr>
+     <td>
+      <a href="https://modrinth.com/mod/female-gender">
+        <img src="https://cdn.modrinth.com/data/bcOsQHnC/536edde42ca493b0f19a2de71ce4cfbb5e5528af_96.webp" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/female-gender">Female Gender Mod</a></b>
+    </td>
+  </tr>
+   <tr>
+    <td>
+      <a href="https://modrinth.com/mod/corpse">
+        <img src="https://cdn.modrinth.com/data/WrpuIfhw/032925a79197e9e23be2c6a07d994b17e3363912.png" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/corpse">Corpse</a></b>
+    </td>
+  </tr>
+     <tr>
+    <td>
+      <a href="https://modrinth.com/mod/auth-me">
+        <img src="https://cdn.modrinth.com/data/yjgIrBjZ/icon.png" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/auth-me">Auth Me</a></b>
+    </td>
+  </tr>
+     <tr>
+    <td>
+      <a href="https://modrinth.com/mod/armor-hud">
+        <img src="https://cdn.modrinth.com/data/AghHBZC5/6a17c27095c6e4c010fd8959cf3baeb7177a77de_96.webp" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/armor-hud">Armor Hud</a></b>
+    </td>
+  </tr>
+   <tr>
+    <td>
+      <a href="https://modrinth.com/mod/cherished-worlds">
+        <img src="https://cdn.modrinth.com/data/3azQ6p0W/14d3a7430f4e834fc0a86d228c6e17e5b9b33a0a.png" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/cherished-worlds">Cherished Worlds</a></b>
+    </td>
+  </tr>
+   <tr>
+    <td>
+      <a href="https://modrinth.com/mod/fishermens-trap">
+        <img src="https://cdn.modrinth.com/data/ltRggnDx/11b9c9371c433434de9d8538aeb61e1b73aad6c4_96.webp" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/fishermens-trap">Fishermen's Trap [Neo/Fabric]</a></b>
+    </td>
+  </tr>
+   <tr>
+    <td>
+      <a href="https://modrinth.com/mod/clutter-no-more">
+        <img src="https://cdn.modrinth.com/data/ewyjbmG4/ca45ee00f0fe939930fa1a3dc6b3f94eda986827.gif" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/clutter-no-more">Clutter No More</a></b>
+    </td>
+  </tr>
+   <tr>
+    <td>
+      <a href="https://modrinth.com/mod/modern-world-creation">
+        <img src="https://cdn.modrinth.com/data/xHskr2cS/d6f3e3a26de3811ff4e969a1f3d4be6a3f8ea8e2_96.webp" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/modern-world-creation">Modern World Creation</a></b>
+    </td>
+  </tr>
+   <tr>
+    <td>
+      <a href="https://modrinth.com/mod/boss-checklist">
+        <img src="https://cdn.modrinth.com/data/z1Dv56jq/89fde04d88799a7f885851e60101deb0d3162121_96.webp" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/boss-checklist">Boss Checklist</a></b>
+    </td>
+  </tr>
+   <tr>
+    <td>
+      <a href="https://modrinth.com/mod/owo-lib">
+        <img src="https://cdn.modrinth.com/data/ccKDOlHs/42c9fe358c72dd5afda078271c574c325e963d19_96.webp" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/owo-lib">oωo (owo-lib)</a></b>
+    </td>
+  </tr>
+   <tr>
+    <td>
+      <a href="https://modrinth.com/mod/whats-that-slot">
+        <img src="https://cdn.modrinth.com/data/7b5VoITI/icon.png" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/whats-that-slot">What's That Slot?</a></b>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://modrinth.com/mod/bee-gui">
+        <img src="https://cdn.modrinth.com/data/tFQApVFs/c060b104732b87a6a2a87cc27d02a17efcbcb324_96.webp" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/bee-gui">Bee GUI</a></b>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://modrinth.com/mod/repair-station">
+        <img src="https://cdn.modrinth.com/data/nQDTdmTz/aea8f991687935737c86b104cbf901c0607aafb0.png" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/repair-station">Repair Station</a></b>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://modrinth.com/mod/penchant">
+        <img src="https://cdn.modrinth.com/data/BTORUTmf/634b02e620c7c43704856387010222d7a9c40d37.png" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/penchant">Penchant</a></b>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://modrinth.com/mod/levelz">
+        <img src="https://cdn.modrinth.com/data/EFtixeiF/568c023b2508eacbaebed7dfe877e2e088d889b7_96.webp" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/levelz">LevelZ</a></b>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://modrinth.com/mod/jobsaddon">
+        <img src="https://cdn.modrinth.com/data/whv2X0ei/b55cc9fe00879d9004d07d9bba3f30071de5835f.png" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/jobsaddon">JobsAddon</a></b>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://modrinth.com/mod/libz">
+        <img src="https://cdn.modrinth.com/data/yUBXc3AH/2121bb47e5d1be3959ba3fcca1e65a8dd92cba1a_96.webp" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/libz">LibZ</a></b>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://modrinth.com/mod/immersive-aircraft">
+        <img src="https://cdn.modrinth.com/data/x3HZvrj6/08205d73c1e3e28eae9c4c6e272eaae34326e4b0_96.webp" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/immersive-aircraft">Immersive Aircraft</a></b>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="modrinth.com/mod/item-highlighter">
+        <img src="https://cdn.modrinth.com/data/cVNW5lr6/5e15f8c53ea36ca5391cdd9bbdea33261fa4c18d_96.webp" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="modrinth.com/mod/item-highlighter">Item Highlighter</a></b>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://modrinth.com/mod/useful-lanterns">
+        <img src="https://cdn.modrinth.com/data/6WmkI00Y/821ff9e676ececff41744df544361fd07225d2bc_96.webp" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/useful-lanterns">Useful Lanterns</a></b>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://modrinth.com/mod/horseshoes">
+        <img src="https://cdn.modrinth.com/data/tyg1IZwj/0ee3958622bb2489d5e3bf29ac397619026ac739.png" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/horseshoes">Horseshoes</a></b>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://modrinth.com/mod/immersive-enchanting">
+        <img src="https://cdn.modrinth.com/data/DfWQAvS4/f3d191989f7a93fa205d866a0807939466d9758e_96.webp" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/immersive-enchanting">Immersive Enchanting</a></b>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://modrinth.com/mod/terramity">
+        <img src="https://cdn.modrinth.com/data/RHN9OPTT/eaecdcfe4633e4bf05bc1f3a69bc625de795c585_96.webp" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/terramity">Terramity</a></b>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://modrinth.com/mod/capes">
+        <img src="https://cdn.modrinth.com/data/89Wsn8GD/icon.png" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/capes">Capes</a></b>
+    </td>
+  </tr>
+<tr>
+    <td>
+      <a href="https://modrinth.com/mod/vanillabackport">
+        <img src="https://cdn.modrinth.com/data/6xwxDTgf/9b2a6826b723d74570e293ab6b96dbe28f4fd993_96.webp" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/vanillabackport">Vanilla Backport</a></b>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://modrinth.com/mod/hexalia">
+        <img src="https://cdn.modrinth.com/data/bkz5C0dQ/74babb7a89589b71c8ebd07fa126b929481087ac_96.webp" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/hexalia">Hexalia</a></b>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://modrinth.com/mod/bountiful-fares">
+        <img src="https://cdn.modrinth.com/data/YgrSDjlb/f4e10611dcc1791138225224fa444f5a8ef4348f_96.webp" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/bountiful-fares">Bountiful Fares</a></b>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://modrinth.com/mod/iceandfire-ce">
+        <img src="https://cdn.modrinth.com/data/VpmCsizY/be6e93e98c3676ffc9216a7eb18fa70d48098502_96.webp" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/iceandfire-ce">IceAndFire Community Edition</a></b>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://modrinth.com/mod/overgeared">
+        <img src="https://cdn.modrinth.com/data/SQL3X2Ky/20c446ea6a90cbb8fcfd552bea7dbdc16388e31b_96.webp" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/overgeared">Overgeared</a></b>
+    </td>
+  </tr>
+  </table>
+
+---
+
+<a href="https://github.com/Fyoncle/GUIRevision-Compats" rel="noopener nofollow ugc">
+<img src="https://wsrv.nl/?url=https://i.ibb.co/N9s5hz1/github.png" alt="GitHub"></a> 
+  
+The mod you need compatibility for isn't there? **Open a suggestion on [GitHub](https://github.com/Fyoncle/GUIRevision-Compats/issues/new?template=feature_request.yml)!**
+</div>
