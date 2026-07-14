@@ -20,11 +20,11 @@ jobs:
         with:
           modrinth-id: STMnY6ly
           modrinth-token: ${{ secrets.MODRINTH_TOKEN }}
+          modrinth-dependencies: |
+            orgtdk9U(required)
 
           curseforge-id: 1577426
           curseforge-token: ${{ secrets.CURSEFORGE_TOKEN }}
-
-          github-token: ${{ secrets.GITHUB_TOKEN }}
 
           files: GUI_Revision_Compats.zip
           name: ${{ github.event.release.name }}
@@ -34,8 +34,5 @@ jobs:
 
           loaders: minecraft
           game-versions: |
-            [1.20.1,26.2]
+            [1.20,26.2]
           game-version-filter: none
-
-          dependencies: |
-            orgtdk9U(required)
