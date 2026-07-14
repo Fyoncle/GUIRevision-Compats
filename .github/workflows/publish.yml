@@ -4,6 +4,9 @@ on:
   release:
     types: [published]
 
+permissions:
+  contents: write
+
 jobs:
   publish:
     runs-on: ubuntu-latest
@@ -25,6 +28,8 @@ jobs:
 
           curseforge-id: 1577426
           curseforge-token: ${{ secrets.CURSEFORGE_TOKEN }}
+
+          github-token: ${{ secrets.GITHUB_TOKEN }}
 
           files: GUI_Revision_Compats.zip
           name: ${{ github.event.release.name }}
