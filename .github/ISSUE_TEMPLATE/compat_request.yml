@@ -1,0 +1,32 @@
+name: Compatibility Request
+description: 'Request a mod to add compatibility with!'
+title: '[Compatibility Request]: '
+assignees:
+  - Fyoncle
+labels:
+  - compatibility
+body:
+  - type: input
+    id: mod_name
+    attributes:
+      label: Mod Name
+      description: What mod do you want compatibility for?
+      placeholder: Trinkets
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: Which GUIs does the mod contain that you think should be added?
+      description: A clear explanation of what GUIs this mod contains that is suitable for GUI Revision Compats.
+      placeholder: >-
+        This mod adds GUIs on the A screen and the B workbench, they would look great with GUI Revision.
+    validations:
+      required: true
+  - type: checkboxes
+    id: Confirmation
+    attributes:
+      label: Confirmation
+      options:
+        - label: I have tested this mod in-game and confirmed it DOES NOT have compatibility with GUI Revision.
+          required: true
