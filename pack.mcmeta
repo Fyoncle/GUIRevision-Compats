@@ -1,0 +1,22 @@
+{
+    "pack": {
+        "description": "§2Adds mod compatibility for GUI Revision by §dVixel",
+        "pack_format": 15,
+        "min_format": 15,
+        "max_format": 99,
+        "supported_formats": {
+            "min_inclusive": 15,
+            "max_inclusive": 99
+        }
+    },
+    "overlays": {
+        "entries": [
+            {
+                "directory": "overlay_34",
+                "formats": [34,99],
+                "min_format": [34,0],
+                "max_format": [99,0]
+            }
+        ]
+    }
+}
