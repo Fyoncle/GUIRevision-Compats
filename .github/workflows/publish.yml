@@ -18,27 +18,38 @@ jobs:
         run: |
           zip -r GUI_Revision_Compats.zip assets overlay_34 pack.mcmeta pack.png
 
-      - name: Publish to Modrinth & CurseForge
-        uses: Kir-Antipov/mc-publish@v3.3
+      - name: Publish to Modrinth
+        uses: cloudnode-pro/modrinth-publish@v3
         with:
-          modrinth-id: STMnY6ly
-          modrinth-token: ${{ secrets.MODRINTH_TOKEN }}
-          modrinth-dependencies: |
-            orgtdk9U(required)
-
-          curseforge-id: 1577426
-          curseforge-token: ${{ secrets.CURSEFORGE_TOKEN }}
-
-          github-token: ${{ secrets.GITHUB_TOKEN }}
-
-          files: GUI_Revision_Compats.zip
-          name: ${{ github.event.release.name }}
+          token: ${{ secrets.MODRINTH_TOKEN }}
+          project: STMnY6ly
           version: ${{ github.event.release.tag_name }}
-          version-type: release
+          name: ${{ github.event.release.name }}
           changelog: ${{ github.event.release.body }}
-
+          game_versions: |
+            1.20.x
+            1.21.x
+            26.1.x
+            26.2
           loaders: minecraft
-          game-versions: |
-            1.20
-            [1.20.1,26.2]
-          game-version-filter: none
+          files: GUI_Revision_Compats.zip
+          dependencies: |
+            [
+              {
+                "project_id": "orgtdk9U",
+                "dependency_type": "required"
+              }
+            ]
+
+      - name: Publish to CurseForge
+        uses: itsmeow/curseforge-upload@v3
+        with:
+          token: ${{ secrets.CURSEFORGE_TOKEN }}
+          project_id: 1577426
+          file_path: GUI_Revision_Compats.zip
+          changelog: ${{ github.event.release.body }}
+          changelog_type: markdown
+          game_endpoint: minecraft
+          game_versions: "1.20,1.20.1,1.21,26.1,26.2"
+          release_type: release
+          display_name: ${{ github.event.release.name }}
