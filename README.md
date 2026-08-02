@@ -51,11 +51,11 @@
    <tr>
     <td>
       <a href="https://modrinth.com/mod/emi-plus-backport">
-        <img src="https://cdn.modrinth.com/data/N9WucjHL/a0b60f7097f83fd95debc25e205fd7995e4c86a2.png" width="32">
+        <img src="https://cdn.modrinth.com/data/N9WucjHL/57861773d6606669a41671a60934781f1dc36e87.png" width="32">
       </a>
     </td>
     <td>
-      <b><a href="https://modrinth.com/mod/emi-plus-backport">EMI++ Forked</a></b>
+      <b><a href="https://modrinth.com/mod/emi-plus-backport">Reliable EMI</a></b>
     </td>
   </tr>
    <tr>
@@ -524,6 +524,16 @@
     </td>
    </tr>
     <tr>
+    <td>
+      <a href="https://modrinth.com/mod/quark">
+        <img src="https://cdn.modrinth.com/data/qnQsVE2z/aef2119751d026421b9e9dc83d4470eec9f91a16_96.webp" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/quark">Quark</a></b>
+    </td>
+   </tr>
+    <tr>
      <td>
       <a href="https://modrinth.com/mod/starcatcher">
         <img src="https://cdn.modrinth.com/data/h2jXvxNR/71c75fa1fb2fbd0c7d3ed6e17d6b8b96bb2810b2.png" width="32">
@@ -725,7 +735,7 @@
   <tr>
     <td>
       <a href="https://modrinth.com/mod/naturalist">
-        <img src="https://cdn.modrinth.com/data/F8BQNPWX/06f421b5c96c2002414373f3e23e07063021a370_96.webp" width="32">
+        <img src="https://cdn.modrinth.com/data/F8BQNPWX/e52917ba0f5ecc1d827f0d4465a15422e0584bf5_96.webp" width="32">
       </a>
     </td>
     <td>
@@ -1095,7 +1105,7 @@
   <tr>
     <td>
       <a href="https://modrinth.com/mod/tiled">
-        <img src="https://cdn.modrinth.com/data/mp04tH0i/1b567d98cfe6760ba070f34d79c97984ffeaf3c1_96.webp" width="32">
+        <img src="https://cdn.modrinth.com/data/mp04tH0i/82f3edae110120d7e7cbd0dce16baa7402fde9a2_96.webp" width="32">
       </a>
     </td>
     <td>
