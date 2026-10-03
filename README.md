@@ -1094,6 +1094,16 @@
   </tr>
       <tr>
     <td>
+      <a href="https://modrinth.com/mod/amendments">
+        <img src="https://cdn.modrinth.com/data/6iTJugQR/46e156f1c798bfc3c18bd2a55567af1086674f02_96.webp" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/amendments">Amendments</a></b>
+    </td>
+  </tr>
+      <tr>
+    <td>
       <a href="https://modrinth.com/mod/chipped">
         <img src="https://cdn.modrinth.com/data/BAscRYKm/4faa514b4824672a0877d026bcd5a94bc8aad985_96.webp" width="32">
       </a>
